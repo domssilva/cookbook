@@ -1,2 +1,22 @@
 # cookbook
-Code snippets for various programming languages and libraries 
+
+A cookbook in the programming context is collection of tiny programs that each demonstrate a particular programming concept. The Cookbook Method is the process of learning a programming language by building up a repository of small programs that implement specific programming concepts. Starting with a Hello World program and building the knowledge piece by piece on top of that.
+
+## Example Cookbook Topics
+
+Everyone has different goals with programming so identify topics relevant to your interests. Here are some ideas if you do not know where to get started.
+
+* Hello, world
+* Getting user input from stdin
+* Taking command line arguments
+* Reading and writing files
+* Using TCP sockets
+* Making HTTP requests
+* Parsing JSON
+* Creating a CSV file
+* Making database connections
+* Playing an audio file
+* Multithreading
+* Drawing 2D graphics to screen
+* Drawing 3D graphics to screen
+* GUI programming
