@@ -1,8 +1,0 @@
-private
-build
-nbactions.xml
-*.class
-target
-test.txt
-*.iml
-nb-configuration.xml
