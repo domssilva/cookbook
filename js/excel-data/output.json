@@ -1,0 +1,2599 @@
+{
+  "A1":{
+     "t":"s",
+     "v":"The purpose of this list is to reach out to many XR & VR related discord servers and see if they are interested in some cross promotion. This cross promotion will come in the form of a discord channel ( probably called #discord-groups ) with all the below links posted giving quick access to the other discord servers. The hope is that with the next influx of users from several devices releasing soon ( Rift S, Quest, Valve Index etc. ) that we can take advantage of the uptick in consumer adoption and all benefit from the increased awareness. Let's show the love for XR and VR!",
+     "r":"<t>The purpose of this list is to reach out to many XR &amp; VR related discord servers and see if they are interested in some cross promotion. This cross promotion will come in the form of a discord channel ( probably called #discord-groups ) with all the below links posted giving quick access to the other discord servers. The hope is that with the next influx of users from several devices releasing soon ( Rift S, Quest, Valve Index etc. ) that we can take advantage of the uptick in consumer adoption and all benefit from the increased awareness. Let's show the love for XR and VR!</t>",
+     "h":"The purpose of this list is to reach out to many XR &amp; VR related discord servers and see if they are interested in some cross promotion. This cross promotion will come in the form of a discord channel ( probably called #discord-groups ) with all the below links posted giving quick access to the other discord servers. The hope is that with the next influx of users from several devices releasing soon ( Rift S, Quest, Valve Index etc. ) that we can take advantage of the uptick in consumer adoption and all benefit from the increased awareness. Let&apos;s show the love for XR and VR!",
+     "w":"The purpose of this list is to reach out to many XR & VR related discord servers and see if they are interested in some cross promotion. This cross promotion will come in the form of a discord channel ( probably called #discord-groups ) with all the below links posted giving quick access to the other discord servers. The hope is that with the next influx of users from several devices releasing soon ( Rift S, Quest, Valve Index etc. ) that we can take advantage of the uptick in consumer adoption and all benefit from the increased awareness. Let's show the love for XR and VR!"
+  },
+  "B2":{
+     "t":"s",
+     "v":"Discord Invite",
+     "r":"<t>Discord Invite</t>",
+     "h":"Discord Invite",
+     "w":"Discord Invite"
+  },
+  "C2":{
+     "t":"s",
+     "v":"Description",
+     "r":"<t>Description</t>",
+     "h":"Description",
+     "w":"Description"
+  },
+  "D2":{
+     "t":"s",
+     "v":"Members",
+     "r":"<t>Members</t>",
+     "h":"Members",
+     "w":"Members"
+  },
+  "E2":{
+     "t":"s",
+     "v":"Confirmed",
+     "r":"<t>Confirmed</t>",
+     "h":"Confirmed",
+     "w":"Confirmed"
+  },
+  "F2":{
+     "t":"s",
+     "v":"Category ",
+     "r":"<t xml:space=\"preserve\">Category </t>",
+     "h":"Category ",
+     "w":"Category "
+  },
+  "A3":{
+     "t":"s",
+     "v":"Hypatia",
+     "r":"<t>Hypatia</t>",
+     "h":"Hypatia",
+     "w":"Hypatia"
+  },
+  "B3":{
+     "t":"s",
+     "v":"https://discord.gg/RaQ7XwH",
+     "r":"<t>https://discord.gg/RaQ7XwH</t>",
+     "h":"https://discord.gg/RaQ7XwH",
+     "w":"https://discord.gg/RaQ7XwH",
+     "l":{
+        "id":"rId2",
+        "ref":"B3",
+        "Target":"https://discord.gg/RaQ7XwH",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/RaQ7XwH",
+           "Id":"rId2",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D3":{
+     "t":"n",
+     "v":175,
+     "w":"175"
+  },
+  "E3":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F3":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A4":{
+     "t":"s",
+     "v":"    A social and magical place where creativity and exploration are the keys to this new world.",
+     "r":"<t xml:space=\"preserve\">    A social and magical place where creativity and exploration are the keys to this new world.</t>",
+     "h":"    A social and magical place where creativity and exploration are the keys to this new world.",
+     "w":"    A social and magical place where creativity and exploration are the keys to this new world."
+  },
+  "A5":{
+     "t":"s",
+     "v":"Altspace ( Unofficial ) ",
+     "r":"<t xml:space=\"preserve\">Altspace ( Unofficial ) </t>",
+     "h":"Altspace ( Unofficial ) ",
+     "w":"Altspace ( Unofficial ) "
+  },
+  "B5":{
+     "t":"s",
+     "v":"https://discord.gg/2JSu6dx",
+     "r":"<t>https://discord.gg/2JSu6dx</t>",
+     "h":"https://discord.gg/2JSu6dx",
+     "w":"https://discord.gg/2JSu6dx",
+     "l":{
+        "id":"rId3",
+        "ref":"B5",
+        "Target":"https://discord.gg/2JSu6dx",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/2JSu6dx",
+           "Id":"rId3",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D5":{
+     "t":"n",
+     "v":595,
+     "w":"595"
+  },
+  "E5":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F5":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A6":{
+     "t":"s",
+     "v":"    Unofficial official Altspace social VR discord hang out.",
+     "r":"<t xml:space=\"preserve\">    Unofficial official Altspace social VR discord hang out.</t>",
+     "h":"    Unofficial official Altspace social VR discord hang out.",
+     "w":"    Unofficial official Altspace social VR discord hang out."
+  },
+  "A7":{
+     "t":"s",
+     "v":"The Expanse",
+     "r":"<t>The Expanse</t>",
+     "h":"The Expanse",
+     "w":"The Expanse"
+  },
+  "B7":{
+     "t":"s",
+     "v":"https://discord.gg/xJ3M63W",
+     "r":"<t>https://discord.gg/xJ3M63W</t>",
+     "h":"https://discord.gg/xJ3M63W",
+     "w":"https://discord.gg/xJ3M63W",
+     "l":{
+        "id":"rId4",
+        "ref":"B7",
+        "Target":"https://discord.gg/xJ3M63W",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/xJ3M63W",
+           "Id":"rId4",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D7":{
+     "t":"n",
+     "v":204,
+     "w":"204"
+  },
+  "E7":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F7":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A8":{
+     "t":"s",
+     "v":"    A social VR hangout to build and share with everyone!",
+     "r":"<t xml:space=\"preserve\">    A social VR hangout to build and share with everyone!</t>",
+     "h":"    A social VR hangout to build and share with everyone!",
+     "w":"    A social VR hangout to build and share with everyone!"
+  },
+  "A9":{
+     "t":"s",
+     "v":"Exokit",
+     "r":"<t>Exokit</t>",
+     "h":"Exokit",
+     "w":"Exokit"
+  },
+  "B9":{
+     "t":"s",
+     "v":"https://discord.gg/yAJaU9E",
+     "r":"<t>https://discord.gg/yAJaU9E</t>",
+     "h":"https://discord.gg/yAJaU9E",
+     "w":"https://discord.gg/yAJaU9E",
+     "l":{
+        "id":"rId5",
+        "ref":"B9",
+        "Target":"https://discord.gg/yAJaU9E",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/yAJaU9E",
+           "Id":"rId5",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D9":{
+     "t":"n",
+     "v":276,
+     "w":"276"
+  },
+  "E9":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F9":{
+     "t":"s",
+     "v":"Game Engine",
+     "r":"<t>Game Engine</t>",
+     "h":"Game Engine",
+     "w":"Game Engine"
+  },
+  "A10":{
+     "t":"s",
+     "v":"    Native WebXR engine for all devices",
+     "r":"<t xml:space=\"preserve\">    Native WebXR engine for all devices</t>",
+     "h":"    Native WebXR engine for all devices",
+     "w":"    Native WebXR engine for all devices"
+  },
+  "A11":{
+     "t":"s",
+     "v":"Atmos",
+     "r":"<t>Atmos</t>",
+     "h":"Atmos",
+     "w":"Atmos"
+  },
+  "B11":{
+     "t":"s",
+     "v":"https://discord.gg/PsGN3tf",
+     "r":"<t>https://discord.gg/PsGN3tf</t>",
+     "h":"https://discord.gg/PsGN3tf",
+     "w":"https://discord.gg/PsGN3tf",
+     "l":{
+        "id":"rId6",
+        "ref":"B11",
+        "Target":"https://discord.gg/PsGN3tf",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/PsGN3tf",
+           "Id":"rId6",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D11":{
+     "t":"n",
+     "v":439,
+     "w":"439"
+  },
+  "E11":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F11":{
+     "t":"s",
+     "v":"Hardware",
+     "r":"<t>Hardware</t>",
+     "h":"Hardware",
+     "w":"Hardware"
+  },
+  "A12":{
+     "t":"s",
+     "v":"    Building an XR (AR/VR) headset that allows developers to create web AR and VR experiences.",
+     "r":"<t xml:space=\"preserve\">    Building an XR (AR/VR) headset that allows developers to create web AR and VR experiences.</t>",
+     "h":"    Building an XR (AR/VR) headset that allows developers to create web AR and VR experiences.",
+     "w":"    Building an XR (AR/VR) headset that allows developers to create web AR and VR experiences."
+  },
+  "A13":{
+     "t":"s",
+     "v":"Project North Star",
+     "r":"<t>Project North Star</t>",
+     "h":"Project North Star",
+     "w":"Project North Star"
+  },
+  "B13":{
+     "t":"s",
+     "v":"https://discord.gg/2aE2Nfq",
+     "r":"<t>https://discord.gg/2aE2Nfq</t>",
+     "h":"https://discord.gg/2aE2Nfq",
+     "w":"https://discord.gg/2aE2Nfq",
+     "l":{
+        "id":"rId7",
+        "ref":"B13",
+        "Target":"https://discord.gg/2aE2Nfq",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/2aE2Nfq",
+           "Id":"rId7",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D13":{
+     "t":"n",
+     "v":661,
+     "w":"661"
+  },
+  "E13":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F13":{
+     "t":"s",
+     "v":"Hardware",
+     "r":"<t>Hardware</t>",
+     "h":"Hardware",
+     "w":"Hardware"
+  },
+  "A14":{
+     "t":"s",
+     "v":"    The Community for Leap Motion's DIY focused Open Source Augmented reality headset. (It has glasses support!)",
+     "r":"<t xml:space=\"preserve\">    The Community for Leap Motion's DIY focused Open Source Augmented reality headset. (It has glasses support!)</t>",
+     "h":"    The Community for Leap Motion&apos;s DIY focused Open Source Augmented reality headset. (It has glasses support!)",
+     "w":"    The Community for Leap Motion's DIY focused Open Source Augmented reality headset. (It has glasses support!)"
+  },
+  "A15":{
+     "t":"s",
+     "v":"Meeka's Open Mic Night",
+     "r":"<t>Meeka's Open Mic Night</t>",
+     "h":"Meeka&apos;s Open Mic Night",
+     "w":"Meeka's Open Mic Night"
+  },
+  "B15":{
+     "t":"s",
+     "v":"https://discord.gg/VPb3yss",
+     "r":"<t>https://discord.gg/VPb3yss</t>",
+     "h":"https://discord.gg/VPb3yss",
+     "w":"https://discord.gg/VPb3yss",
+     "l":{
+        "id":"rId8",
+        "ref":"B15",
+        "Target":"https://discord.gg/VPb3yss",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/VPb3yss",
+           "Id":"rId8",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D15":{
+     "t":"n",
+     "v":93,
+     "w":"93"
+  },
+  "E15":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F15":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A16":{
+     "t":"s",
+     "v":"    Open mic night based in Altspace VR.",
+     "r":"<t xml:space=\"preserve\">    Open mic night based in Altspace VR.</t>",
+     "h":"    Open mic night based in Altspace VR.",
+     "w":"    Open mic night based in Altspace VR."
+  },
+  "A17":{
+     "t":"s",
+     "v":"Unofficial High Fidelity",
+     "r":"<t>Unofficial High Fidelity</t>",
+     "h":"Unofficial High Fidelity",
+     "w":"Unofficial High Fidelity"
+  },
+  "B17":{
+     "t":"s",
+     "v":"https://discord.gg/GEB6r4",
+     "r":"<t>https://discord.gg/GEB6r4</t>",
+     "h":"https://discord.gg/GEB6r4",
+     "w":"https://discord.gg/GEB6r4",
+     "l":{
+        "id":"rId9",
+        "ref":"B17",
+        "Target":"https://discord.gg/GEB6r4",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/GEB6r4",
+           "Id":"rId9",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D17":{
+     "t":"n",
+     "v":417,
+     "w":"417"
+  },
+  "E17":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes",
+     "c":[
+        {
+           "a":"sheetjsghost",
+           "t":"Will confirm on 23/04/2019",
+           "r":"<t xml:space=\"preserve\">Will confirm on 23/04/2019</t>",
+           "h":"Will confirm on 23/04/2019"
+        }
+     ]
+  },
+  "F17":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A18":{
+     "t":"s",
+     "v":"    High Fidelity is an open-source virtual reality software platform to help 3D artists, developers, and creators build virtual reality spaces",
+     "r":"<t xml:space=\"preserve\">    High Fidelity is an open-source virtual reality software platform to help 3D artists, developers, and creators build virtual reality spaces</t>",
+     "h":"    High Fidelity is an open-source virtual reality software platform to help 3D artists, developers, and creators build virtual reality spaces",
+     "w":"    High Fidelity is an open-source virtual reality software platform to help 3D artists, developers, and creators build virtual reality spaces"
+  },
+  "A19":{
+     "t":"s",
+     "v":"Neos VR",
+     "r":"<t>Neos VR</t>",
+     "h":"Neos VR",
+     "w":"Neos VR"
+  },
+  "B19":{
+     "t":"s",
+     "v":"https://discord.gg/neosvr",
+     "r":"<t>https://discord.gg/neosvr</t>",
+     "h":"https://discord.gg/neosvr",
+     "w":"https://discord.gg/neosvr",
+     "l":{
+        "id":"rId10",
+        "ref":"B19",
+        "Target":"https://discord.gg/neosvr",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/neosvr",
+           "Id":"rId10",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D19":{
+     "t":"n",
+     "v":833,
+     "w":"833"
+  },
+  "E19":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F19":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A20":{
+     "t":"s",
+     "v":"    Welcome to the metaverse! A shared social universe where both casual users and creators coexist.",
+     "r":"<t xml:space=\"preserve\">    Welcome to the metaverse! A shared social universe where both casual users and creators coexist.</t>",
+     "h":"    Welcome to the metaverse! A shared social universe where both casual users and creators coexist.",
+     "w":"    Welcome to the metaverse! A shared social universe where both casual users and creators coexist."
+  },
+  "A21":{
+     "t":"s",
+     "v":"VR Land",
+     "r":"<t>VR Land</t>",
+     "h":"VR Land",
+     "w":"VR Land"
+  },
+  "B21":{
+     "t":"s",
+     "v":"https://discord.gg/SFdcYeJ",
+     "r":"<t>https://discord.gg/SFdcYeJ</t>",
+     "h":"https://discord.gg/SFdcYeJ",
+     "w":"https://discord.gg/SFdcYeJ",
+     "l":{
+        "id":"rId11",
+        "ref":"B21",
+        "Target":"https://discord.gg/SFdcYeJ",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/SFdcYeJ",
+           "Id":"rId11",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D21":{
+     "t":"n",
+     "v":58,
+     "w":"58"
+  },
+  "E21":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F21":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A22":{
+     "t":"s",
+     "v":"    Exokit based VR project",
+     "r":"<t xml:space=\"preserve\">    Exokit based VR project</t>",
+     "h":"    Exokit based VR project",
+     "w":"    Exokit based VR project"
+  },
+  "A23":{
+     "t":"s",
+     "v":"VR365",
+     "r":"<t>VR365</t>",
+     "h":"VR365",
+     "w":"VR365"
+  },
+  "B23":{
+     "t":"s",
+     "v":"https://discord.gg/mutEgeN",
+     "r":"<t>https://discord.gg/mutEgeN</t>",
+     "h":"https://discord.gg/mutEgeN",
+     "w":"https://discord.gg/mutEgeN",
+     "l":{
+        "id":"rId12",
+        "ref":"B23",
+        "Target":"https://discord.gg/mutEgeN",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/mutEgeN",
+           "Id":"rId12",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D23":{
+     "t":"n",
+     "v":150,
+     "w":"150"
+  },
+  "E23":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F23":{
+     "t":"s",
+     "v":"Content Studio",
+     "r":"<t>Content Studio</t>",
+     "h":"Content Studio",
+     "w":"Content Studio"
+  },
+  "A24":{
+     "t":"s",
+     "v":"    Fan Server for VR365 YouTube Channel",
+     "r":"<t xml:space=\"preserve\">    Fan Server for VR365 YouTube Channel</t>",
+     "h":"    Fan Server for VR365 YouTube Channel",
+     "w":"    Fan Server for VR365 YouTube Channel"
+  },
+  "A25":{
+     "t":"s",
+     "v":"Practical",
+     "r":"<t>Practical</t>",
+     "h":"Practical",
+     "w":"Practical"
+  },
+  "B25":{
+     "t":"s",
+     "v":"https://discord.gg/ENejXBz",
+     "r":"<t>https://discord.gg/ENejXBz</t>",
+     "h":"https://discord.gg/ENejXBz",
+     "w":"https://discord.gg/ENejXBz",
+     "l":{
+        "id":"rId13",
+        "ref":"B25",
+        "Target":"https://discord.gg/ENejXBz",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/ENejXBz",
+           "Id":"rId13",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D25":{
+     "t":"n",
+     "v":161,
+     "w":"161"
+  },
+  "E25":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F25":{
+     "t":"s",
+     "v":"Content Creation",
+     "r":"<t>Content Creation</t>",
+     "h":"Content Creation",
+     "w":"Content Creation"
+  },
+  "A26":{
+     "t":"s",
+     "v":"    PracticalVR - Building the mixed reality tools of tomorrow. Practical is a next-generation platform... Maps | Objects | Actions",
+     "r":"<t xml:space=\"preserve\">    PracticalVR - Building the mixed reality tools of tomorrow. Practical is a next-generation platform... Maps | Objects | Actions</t>",
+     "h":"    PracticalVR - Building the mixed reality tools of tomorrow. Practical is a next-generation platform... Maps | Objects | Actions",
+     "w":"    PracticalVR - Building the mixed reality tools of tomorrow. Practical is a next-generation platform... Maps | Objects | Actions"
+  },
+  "A27":{
+     "t":"s",
+     "v":"TribeXR",
+     "r":"<t>TribeXR</t>",
+     "h":"TribeXR",
+     "w":"TribeXR"
+  },
+  "B27":{
+     "t":"s",
+     "v":"https://discord.gg/MbKaY5",
+     "r":"<t>https://discord.gg/MbKaY5</t>",
+     "h":"https://discord.gg/MbKaY5",
+     "w":"https://discord.gg/MbKaY5",
+     "l":{
+        "id":"rId14",
+        "ref":"B27",
+        "Target":"https://discord.gg/MbKaY5",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/MbKaY5",
+           "Id":"rId14",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D27":{
+     "t":"n",
+     "v":696,
+     "w":"696"
+  },
+  "E27":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F27":{
+     "t":"s",
+     "v":"VR DJ",
+     "r":"<t>VR DJ</t>",
+     "h":"VR DJ",
+     "w":"VR DJ"
+  },
+  "A28":{
+     "t":"s",
+     "v":"    TRIBE IS A VIRTUAL REALITY TOOL THAT OFFERS A PRO CDJ DECK, 1-ON-1 LIVE LESSONS, AND STREAMING SUPPORT. ",
+     "r":"<t xml:space=\"preserve\">    TRIBE IS A VIRTUAL REALITY TOOL THAT OFFERS A PRO CDJ DECK, 1-ON-1 LIVE LESSONS, AND STREAMING SUPPORT. </t>",
+     "h":"    TRIBE IS A VIRTUAL REALITY TOOL THAT OFFERS A PRO CDJ DECK, 1-ON-1 LIVE LESSONS, AND STREAMING SUPPORT. ",
+     "w":"    TRIBE IS A VIRTUAL REALITY TOOL THAT OFFERS A PRO CDJ DECK, 1-ON-1 LIVE LESSONS, AND STREAMING SUPPORT. "
+  },
+  "A29":{
+     "t":"s",
+     "v":"OpenComposite",
+     "r":"<t>OpenComposite</t>",
+     "h":"OpenComposite",
+     "w":"OpenComposite"
+  },
+  "B29":{
+     "t":"s",
+     "v":"https://discord.gg/4thgMhe",
+     "r":"<t>https://discord.gg/4thgMhe</t>",
+     "h":"https://discord.gg/4thgMhe",
+     "w":"https://discord.gg/4thgMhe",
+     "l":{
+        "id":"rId15",
+        "ref":"B29",
+        "Target":"https://discord.gg/4thgMhe",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/4thgMhe",
+           "Id":"rId15",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D29":{
+     "t":"n",
+     "v":277,
+     "w":"277"
+  },
+  "E29":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F29":{
+     "t":"s",
+     "v":"VR Software",
+     "r":"<t>VR Software</t>",
+     "h":"VR Software",
+     "w":"VR Software"
+  },
+  "A30":{
+     "t":"s",
+     "v":"    OpenComposite - Play SteamVR games without SteamVR!",
+     "r":"<t xml:space=\"preserve\">    OpenComposite - Play SteamVR games without SteamVR!</t>",
+     "h":"    OpenComposite - Play SteamVR games without SteamVR!",
+     "w":"    OpenComposite - Play SteamVR games without SteamVR!"
+  },
+  "A31":{
+     "t":"s",
+     "v":"The Cauldron",
+     "r":"<t>The Cauldron</t>",
+     "h":"The Cauldron",
+     "w":"The Cauldron"
+  },
+  "B31":{
+     "t":"s",
+     "v":"https://discord.gg/QQpWYPK",
+     "r":"<t>https://discord.gg/QQpWYPK</t>",
+     "h":"https://discord.gg/QQpWYPK",
+     "w":"https://discord.gg/QQpWYPK",
+     "l":{
+        "id":"rId16",
+        "ref":"B31",
+        "Target":"https://discord.gg/QQpWYPK",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/QQpWYPK",
+           "Id":"rId16",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D31":{
+     "t":"n",
+     "v":47,
+     "w":"47"
+  },
+  "E31":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F31":{
+     "t":"s",
+     "v":"Content Creation",
+     "r":"<t>Content Creation</t>",
+     "h":"Content Creation",
+     "w":"Content Creation"
+  },
+  "A32":{
+     "t":"s",
+     "v":"    Mixed Reality & Motion Comic Books With Madefire",
+     "r":"<t xml:space=\"preserve\">    Mixed Reality &amp; Motion Comic Books With Madefire</t>",
+     "h":"    Mixed Reality &amp; Motion Comic Books With Madefire",
+     "w":"    Mixed Reality & Motion Comic Books With Madefire"
+  },
+  "A33":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "B33":{
+     "t":"s",
+     "v":"https://discord.gg/6JAUf4",
+     "r":"<t>https://discord.gg/6JAUf4</t>",
+     "h":"https://discord.gg/6JAUf4",
+     "w":"https://discord.gg/6JAUf4",
+     "l":{
+        "id":"rId17",
+        "ref":"B33",
+        "Target":"https://discord.gg/6JAUf4",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/6JAUf4",
+           "Id":"rId17",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D33":{
+     "t":"n",
+     "v":700,
+     "w":"700"
+  },
+  "E33":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F33":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A34":{
+     "t":"s",
+     "v":"    Everything Social VR, including Rec Room, VRChat, HiFi, and more.  Also for finding people to play games with.",
+     "r":"<t xml:space=\"preserve\">    Everything Social VR, including Rec Room, VRChat, HiFi, and more.  Also for finding people to play games with.</t>",
+     "h":"    Everything Social VR, including Rec Room, VRChat, HiFi, and more.  Also for finding people to play games with.",
+     "w":"    Everything Social VR, including Rec Room, VRChat, HiFi, and more.  Also for finding people to play games with."
+  },
+  "A35":{
+     "t":"s",
+     "v":"MixCast",
+     "r":"<t>MixCast</t>",
+     "h":"MixCast",
+     "w":"MixCast"
+  },
+  "B35":{
+     "t":"s",
+     "v":"https://discord.gg/ZuhPmrR",
+     "r":"<t>https://discord.gg/ZuhPmrR</t>",
+     "h":"https://discord.gg/ZuhPmrR",
+     "w":"https://discord.gg/ZuhPmrR",
+     "l":{
+        "id":"rId18",
+        "ref":"B35",
+        "Target":"https://discord.gg/ZuhPmrR",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/ZuhPmrR",
+           "Id":"rId18",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D35":{
+     "t":"n",
+     "v":626,
+     "w":"626"
+  },
+  "E35":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F35":{
+     "t":"s",
+     "v":"Content Creation",
+     "r":"<t>Content Creation</t>",
+     "h":"Content Creation",
+     "w":"Content Creation"
+  },
+  "A36":{
+     "t":"s",
+     "v":"    Create, Mix & Share Great VR Moments",
+     "r":"<t xml:space=\"preserve\">    Create, Mix &amp; Share Great VR Moments</t>",
+     "h":"    Create, Mix &amp; Share Great VR Moments",
+     "w":"    Create, Mix & Share Great VR Moments"
+  },
+  "A37":{
+     "t":"s",
+     "v":"VR Anime Society",
+     "r":"<t>VR Anime Society</t>",
+     "h":"VR Anime Society",
+     "w":"VR Anime Society"
+  },
+  "B37":{
+     "t":"s",
+     "v":"https://vranimesociety.com/",
+     "r":"<t>https://vranimesociety.com/</t>",
+     "h":"https://vranimesociety.com/",
+     "w":"https://vranimesociety.com/",
+     "l":{
+        "id":"rId19",
+        "ref":"B37",
+        "Target":"https://vranimesociety.com/",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://vranimesociety.com/",
+           "Id":"rId19",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D37":{
+     "t":"n",
+     "v":700,
+     "w":"700"
+  },
+  "E37":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F37":{
+     "t":"s",
+     "v":"Social VR, Anime",
+     "r":"<t>Social VR, Anime</t>",
+     "h":"Social VR, Anime",
+     "w":"Social VR, Anime"
+  },
+  "A38":{
+     "t":"s",
+     "v":"    VR Anime Society allows you to join anime fans around the world, to watch anime together in VR.",
+     "r":"<t xml:space=\"preserve\">    VR Anime Society allows you to join anime fans around the world, to watch anime together in VR.</t>",
+     "h":"    VR Anime Society allows you to join anime fans around the world, to watch anime together in VR.",
+     "w":"    VR Anime Society allows you to join anime fans around the world, to watch anime together in VR."
+  },
+  "A39":{
+     "t":"s",
+     "v":"Virtual Reality",
+     "r":"<t>Virtual Reality</t>",
+     "h":"Virtual Reality",
+     "w":"Virtual Reality"
+  },
+  "B39":{
+     "t":"s",
+     "v":"https://discord.gg/virtualreality",
+     "r":"<t>https://discord.gg/virtualreality</t>",
+     "h":"https://discord.gg/virtualreality",
+     "w":"https://discord.gg/virtualreality",
+     "l":{
+        "id":"rId20",
+        "ref":"B39",
+        "Target":"https://discord.gg/virtualreality",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/virtualreality",
+           "Id":"rId20",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D39":{
+     "t":"s",
+     "v":"13k",
+     "r":"<t>13k</t>",
+     "h":"13k",
+     "w":"13k"
+  },
+  "E39":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F39":{
+     "t":"s",
+     "v":"Gaming, VR Content",
+     "r":"<t>Gaming, VR Content</t>",
+     "h":"Gaming, VR Content",
+     "w":"Gaming, VR Content"
+  },
+  "A40":{
+     "t":"s",
+     "v":"    A community for all things VR",
+     "r":"<t xml:space=\"preserve\">    A community for all things VR</t>",
+     "h":"    A community for all things VR",
+     "w":"    A community for all things VR"
+  },
+  "A41":{
+     "t":"s",
+     "v":"Federated Hifi Users",
+     "r":"<t>Federated Hifi Users</t>",
+     "h":"Federated Hifi Users",
+     "w":"Federated Hifi Users"
+  },
+  "B41":{
+     "t":"s",
+     "v":"https://discord.gg/dAV4RGS",
+     "r":"<t>https://discord.gg/dAV4RGS</t>",
+     "h":"https://discord.gg/dAV4RGS",
+     "w":"https://discord.gg/dAV4RGS",
+     "l":{
+        "id":"rId21",
+        "ref":"B41",
+        "Target":"https://discord.gg/dAV4RGS",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/dAV4RGS",
+           "Id":"rId21",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D41":{
+     "t":"n",
+     "v":173,
+     "w":"173"
+  },
+  "E41":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F41":{
+     "t":"s",
+     "v":"Social VR, General VR",
+     "r":"<t>Social VR, General VR</t>",
+     "h":"Social VR, General VR",
+     "w":"Social VR, General VR"
+  },
+  "A42":{
+     "t":"s",
+     "v":"    High Fidelity is an open-source virtual reality software platform to help 3D artists, developers, and creators build virtual reality spaces",
+     "r":"<t xml:space=\"preserve\">    High Fidelity is an open-source virtual reality software platform to help 3D artists, developers, and creators build virtual reality spaces</t>",
+     "h":"    High Fidelity is an open-source virtual reality software platform to help 3D artists, developers, and creators build virtual reality spaces",
+     "w":"    High Fidelity is an open-source virtual reality software platform to help 3D artists, developers, and creators build virtual reality spaces"
+  },
+  "A43":{
+     "t":"s",
+     "v":"Valve Index",
+     "r":"<t>Valve Index</t>",
+     "h":"Valve Index",
+     "w":"Valve Index"
+  },
+  "B43":{
+     "t":"s",
+     "v":"https://discord.gg/FhtPUf",
+     "r":"<t>https://discord.gg/FhtPUf</t>",
+     "h":"https://discord.gg/FhtPUf",
+     "w":"https://discord.gg/FhtPUf",
+     "l":{
+        "id":"rId22",
+        "ref":"B43",
+        "Target":"https://discord.gg/FhtPUf",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/FhtPUf",
+           "Id":"rId22",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D43":{
+     "t":"n",
+     "v":237,
+     "w":"237"
+  },
+  "E43":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F43":{
+     "t":"s",
+     "v":"Hardware",
+     "r":"<t>Hardware</t>",
+     "h":"Hardware",
+     "w":"Hardware"
+  },
+  "A44":{
+     "t":"s",
+     "v":"    The Valve Index is the latest VR headset from Valve. ",
+     "r":"<t xml:space=\"preserve\">    The Valve Index is the latest VR headset from Valve. </t>",
+     "h":"    The Valve Index is the latest VR headset from Valve. ",
+     "w":"    The Valve Index is the latest VR headset from Valve. "
+  },
+  "A45":{
+     "t":"s",
+     "v":"MiroWin VR",
+     "r":"<t>MiroWin VR</t>",
+     "h":"MiroWin VR",
+     "w":"MiroWin VR"
+  },
+  "B45":{
+     "t":"s",
+     "v":"https://discord.gg/RqtVFYS",
+     "r":"<t>https://discord.gg/RqtVFYS</t>",
+     "h":"https://discord.gg/RqtVFYS",
+     "w":"https://discord.gg/RqtVFYS",
+     "l":{
+        "id":"rId23",
+        "ref":"B45",
+        "Target":"https://discord.gg/RqtVFYS",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/RqtVFYS",
+           "Id":"rId23",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D45":{
+     "t":"n",
+     "v":320,
+     "w":"320"
+  },
+  "E45":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F45":{
+     "t":"s",
+     "v":"VR Development",
+     "r":"<t>VR Development</t>",
+     "h":"VR Development",
+     "w":"VR Development"
+  },
+  "A46":{
+     "t":"s",
+     "v":"    We're devs and making a new game. Anyone can play our aplha version in one day. And of course join our server",
+     "r":"<t xml:space=\"preserve\">    We're devs and making a new game. Anyone can play our aplha version in one day. And of course join our server</t>",
+     "h":"    We&apos;re devs and making a new game. Anyone can play our aplha version in one day. And of course join our server",
+     "w":"    We're devs and making a new game. Anyone can play our aplha version in one day. And of course join our server"
+  },
+  "A47":{
+     "t":"s",
+     "v":"HelixxVR",
+     "r":"<t>HelixxVR</t>",
+     "h":"HelixxVR",
+     "w":"HelixxVR"
+  },
+  "B47":{
+     "t":"s",
+     "v":"https://discord.gg/QZeZKQ",
+     "r":"<t>https://discord.gg/QZeZKQ</t>",
+     "h":"https://discord.gg/QZeZKQ",
+     "w":"https://discord.gg/QZeZKQ",
+     "l":{
+        "id":"rId24",
+        "ref":"B47",
+        "Target":"https://discord.gg/QZeZKQ",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/QZeZKQ",
+           "Id":"rId24",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D47":{
+     "t":"s",
+     "v":"1k",
+     "r":"<t>1k</t>",
+     "h":"1k",
+     "w":"1k"
+  },
+  "E47":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F47":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A48":{
+     "t":"s",
+     "v":"    We're a group of VR enthusiasts who create videos on YouTube and Livestream on Twitch.",
+     "r":"<t xml:space=\"preserve\">    We're a group of VR enthusiasts who create videos on YouTube and Livestream on Twitch.</t>",
+     "h":"    We&apos;re a group of VR enthusiasts who create videos on YouTube and Livestream on Twitch.",
+     "w":"    We're a group of VR enthusiasts who create videos on YouTube and Livestream on Twitch."
+  },
+  "A49":{
+     "t":"s",
+     "v":"Magic Leap",
+     "r":"<t>Magic Leap</t>",
+     "h":"Magic Leap",
+     "w":"Magic Leap"
+  },
+  "B49":{
+     "t":"s",
+     "v":"https://discord.gg/J4WNeq",
+     "r":"<t>https://discord.gg/J4WNeq</t>",
+     "h":"https://discord.gg/J4WNeq",
+     "w":"https://discord.gg/J4WNeq",
+     "l":{
+        "id":"rId25",
+        "ref":"B49",
+        "Target":"https://discord.gg/J4WNeq",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/J4WNeq",
+           "Id":"rId25",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D49":{
+     "t":"n",
+     "v":683,
+     "w":"683"
+  },
+  "E49":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F49":{
+     "t":"s",
+     "v":"Hardware",
+     "r":"<t>Hardware</t>",
+     "h":"Hardware",
+     "w":"Hardware"
+  },
+  "A50":{
+     "t":"s",
+     "v":"    The next era of computing. Leave flat screens behind.",
+     "r":"<t xml:space=\"preserve\">    The next era of computing. Leave flat screens behind.</t>",
+     "h":"    The next era of computing. Leave flat screens behind.",
+     "w":"    The next era of computing. Leave flat screens behind."
+  },
+  "A51":{
+     "t":"s",
+     "v":"SVGN.io NeurotechX",
+     "r":"<t>SVGN.io NeurotechX</t>",
+     "h":"SVGN.io NeurotechX",
+     "w":"SVGN.io NeurotechX"
+  },
+  "B51":{
+     "t":"s",
+     "v":"https://discord.gg/QjHq36e",
+     "r":"<t>https://discord.gg/QjHq36e</t>",
+     "h":"https://discord.gg/QjHq36e",
+     "w":"https://discord.gg/QjHq36e",
+     "l":{
+        "id":"rId26",
+        "ref":"B51",
+        "Target":"https://discord.gg/QjHq36e",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/QjHq36e",
+           "Id":"rId26",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D51":{
+     "t":"n",
+     "v":128,
+     "w":"128"
+  },
+  "E51":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F51":{
+     "t":"s",
+     "v":"News",
+     "r":"<t>News</t>",
+     "h":"News",
+     "w":"News"
+  },
+  "A52":{
+     "t":"s",
+     "v":"    Neuro Hacking Science Discusion & BCI / BMI ",
+     "r":"<t xml:space=\"preserve\">    Neuro Hacking Science Discusion &amp; BCI / BMI </t>",
+     "h":"    Neuro Hacking Science Discusion &amp; BCI / BMI ",
+     "w":"    Neuro Hacking Science Discusion & BCI / BMI "
+  },
+  "A53":{
+     "t":"s",
+     "v":"/r/learnVRdev",
+     "r":"<t>/r/learnVRdev</t>",
+     "h":"/r/learnVRdev",
+     "w":"/r/learnVRdev"
+  },
+  "B53":{
+     "t":"s",
+     "v":"https://discord.gg/nkXj8n9",
+     "r":"<t>https://discord.gg/nkXj8n9</t>",
+     "h":"https://discord.gg/nkXj8n9",
+     "w":"https://discord.gg/nkXj8n9",
+     "l":{
+        "id":"rId27",
+        "ref":"B53",
+        "Target":"https://discord.gg/nkXj8n9",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/nkXj8n9",
+           "Id":"rId27",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D53":{
+     "t":"n",
+     "v":302,
+     "w":"302"
+  },
+  "E53":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F53":{
+     "t":"s",
+     "v":"VR Development",
+     "r":"<t>VR Development</t>",
+     "h":"VR Development",
+     "w":"VR Development"
+  },
+  "A54":{
+     "t":"s",
+     "v":"    Join for daily news updates, project sharing, and general discussion about VR development.",
+     "r":"<t xml:space=\"preserve\">    Join for daily news updates, project sharing, and general discussion about VR development.</t>",
+     "h":"    Join for daily news updates, project sharing, and general discussion about VR development.",
+     "w":"    Join for daily news updates, project sharing, and general discussion about VR development."
+  },
+  "A55":{
+     "t":"s",
+     "v":"JanusVR",
+     "r":"<t>JanusVR</t>",
+     "h":"JanusVR",
+     "w":"JanusVR"
+  },
+  "B55":{
+     "t":"s",
+     "v":"https://discord.gg/CrdQjhr",
+     "r":"<t>https://discord.gg/CrdQjhr</t>",
+     "h":"https://discord.gg/CrdQjhr",
+     "w":"https://discord.gg/CrdQjhr",
+     "l":{
+        "id":"rId28",
+        "ref":"B55",
+        "Target":"https://discord.gg/CrdQjhr",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/CrdQjhr",
+           "Id":"rId28",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D55":{
+     "t":"n",
+     "v":397,
+     "w":"397"
+  },
+  "E55":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F55":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A56":{
+     "t":"s",
+     "v":"    Build, browse and socialize in the Immersive Internet. - JanusVR is the internet like you've never seen it before.",
+     "r":"<t xml:space=\"preserve\">    Build, browse and socialize in the Immersive Internet. - JanusVR is the internet like you've never seen it before.</t>",
+     "h":"    Build, browse and socialize in the Immersive Internet. - JanusVR is the internet like you&apos;ve never seen it before.",
+     "w":"    Build, browse and socialize in the Immersive Internet. - JanusVR is the internet like you've never seen it before."
+  },
+  "A57":{
+     "t":"s",
+     "v":"The Hive VR",
+     "r":"<t>The Hive VR</t>",
+     "h":"The Hive VR",
+     "w":"The Hive VR"
+  },
+  "B57":{
+     "t":"s",
+     "v":"https://discord.gg/wE7F5x",
+     "r":"<t>https://discord.gg/wE7F5x</t>",
+     "h":"https://discord.gg/wE7F5x",
+     "w":"https://discord.gg/wE7F5x",
+     "l":{
+        "id":"rId29",
+        "ref":"B57",
+        "Target":"https://discord.gg/wE7F5x",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/wE7F5x",
+           "Id":"rId29",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D57":{
+     "t":"n",
+     "v":226,
+     "w":"226"
+  },
+  "E57":{
+     "t":"s",
+     "v":"Yes",
+     "r":"<t>Yes</t>",
+     "h":"Yes",
+     "w":"Yes"
+  },
+  "F57":{
+     "t":"s",
+     "v":"Gaming, Social VR",
+     "r":"<t>Gaming, Social VR</t>",
+     "h":"Gaming, Social VR",
+     "w":"Gaming, Social VR"
+  },
+  "A58":{
+     "t":"s",
+     "v":"    We are creating a unique live #VR production within the limitation of tech. ",
+     "r":"<t xml:space=\"preserve\">    We are creating a unique live #VR production within the limitation of tech. </t>",
+     "h":"    We are creating a unique live #VR production within the limitation of tech. ",
+     "w":"    We are creating a unique live #VR production within the limitation of tech. "
+  },
+  "A59":{
+     "t":"s",
+     "v":"Hubs",
+     "r":"<t>Hubs</t>",
+     "h":"Hubs",
+     "w":"Hubs"
+  },
+  "B59":{
+     "t":"s",
+     "v":"https://discord.gg/qgsBnxm",
+     "r":"<t>https://discord.gg/qgsBnxm</t>",
+     "h":"https://discord.gg/qgsBnxm",
+     "w":"https://discord.gg/qgsBnxm",
+     "l":{
+        "id":"rId30",
+        "ref":"B59",
+        "Target":"https://discord.gg/qgsBnxm",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/qgsBnxm",
+           "Id":"rId30",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D59":{
+     "t":"n",
+     "v":713,
+     "w":"713"
+  },
+  "E59":{
+     "t":"s",
+     "v":"Maybe",
+     "r":"<t>Maybe</t>",
+     "h":"Maybe",
+     "w":"Maybe",
+     "c":[
+        {
+           "a":"sheetjsghost",
+           "t":"Will confirm on 23/04/2019",
+           "r":"<t xml:space=\"preserve\">Will confirm on 23/04/2019</t>",
+           "h":"Will confirm on 23/04/2019"
+        }
+     ]
+  },
+  "F59":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A60":{
+     "t":"s",
+     "v":"    A new way to get together - web based social VR",
+     "r":"<t xml:space=\"preserve\">    A new way to get together - web based social VR</t>",
+     "h":"    A new way to get together - web based social VR",
+     "w":"    A new way to get together - web based social VR"
+  },
+  "A61":{
+     "t":"s",
+     "v":"Altspace VR World Builders",
+     "r":"<t>Altspace VR World Builders</t>",
+     "h":"Altspace VR World Builders",
+     "w":"Altspace VR World Builders"
+  },
+  "B61":{
+     "t":"s",
+     "v":"https://discord.gg/KBP2eFc",
+     "r":"<t>https://discord.gg/KBP2eFc</t>",
+     "h":"https://discord.gg/KBP2eFc",
+     "w":"https://discord.gg/KBP2eFc",
+     "l":{
+        "id":"rId31",
+        "ref":"B61",
+        "Target":"https://discord.gg/KBP2eFc",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/KBP2eFc",
+           "Id":"rId31",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D61":{
+     "t":"n",
+     "v":182,
+     "w":"182"
+  },
+  "E61":{
+     "t":"s",
+     "v":"Maybe",
+     "r":"<t>Maybe</t>",
+     "h":"Maybe",
+     "w":"Maybe"
+  },
+  "F61":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A62":{
+     "t":"s",
+     "v":"    Building worlds in Altsapce VR",
+     "r":"<t xml:space=\"preserve\">    Building worlds in Altsapce VR</t>",
+     "h":"    Building worlds in Altsapce VR",
+     "w":"    Building worlds in Altsapce VR"
+  },
+  "A63":{
+     "t":"s",
+     "v":"Somnium Space",
+     "r":"<t>Somnium Space</t>",
+     "h":"Somnium Space",
+     "w":"Somnium Space"
+  },
+  "B63":{
+     "t":"s",
+     "v":"https://discord.gg/z3UMJFk",
+     "r":"<t>https://discord.gg/z3UMJFk</t>",
+     "h":"https://discord.gg/z3UMJFk",
+     "w":"https://discord.gg/z3UMJFk",
+     "l":{
+        "id":"rId32",
+        "ref":"B63",
+        "Target":"https://discord.gg/z3UMJFk",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/z3UMJFk",
+           "Id":"rId32",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D63":{
+     "t":"n",
+     "v":192,
+     "w":"192"
+  },
+  "E63":{
+     "t":"s",
+     "v":"Maybe",
+     "r":"<t>Maybe</t>",
+     "h":"Maybe",
+     "w":"Maybe"
+  },
+  "F63":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A64":{
+     "t":"s",
+     "v":"    We are an Open, Social & Persistent VR world. Buy land, build or import objects, instantly monetize and simply have fun. ",
+     "r":"<t xml:space=\"preserve\">    We are an Open, Social &amp; Persistent VR world. Buy land, build or import objects, instantly monetize and simply have fun. </t>",
+     "h":"    We are an Open, Social &amp; Persistent VR world. Buy land, build or import objects, instantly monetize and simply have fun. ",
+     "w":"    We are an Open, Social & Persistent VR world. Buy land, build or import objects, instantly monetize and simply have fun. "
+  },
+  "A65":{
+     "t":"s",
+     "v":"Vivecraft",
+     "r":"<t>Vivecraft</t>",
+     "h":"Vivecraft",
+     "w":"Vivecraft"
+  },
+  "B65":{
+     "t":"s",
+     "v":"https://discord.gg/gq9DjcV",
+     "r":"<t>https://discord.gg/gq9DjcV</t>",
+     "h":"https://discord.gg/gq9DjcV",
+     "w":"https://discord.gg/gq9DjcV",
+     "l":{
+        "id":"rId33",
+        "ref":"B65",
+        "Target":"https://discord.gg/gq9DjcV",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/gq9DjcV",
+           "Id":"rId33",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D65":{
+     "t":"s",
+     "v":"3.8k",
+     "r":"<t>3.8k</t>",
+     "h":"3.8k",
+     "w":"3.8k"
+  },
+  "E65":{
+     "t":"s",
+     "v":"Maybe",
+     "r":"<t>Maybe</t>",
+     "h":"Maybe",
+     "w":"Maybe"
+  },
+  "F65":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A66":{
+     "t":"s",
+     "v":"    VR Minecraft, woop woop!",
+     "r":"<t xml:space=\"preserve\">    VR Minecraft, woop woop!</t>",
+     "h":"    VR Minecraft, woop woop!",
+     "w":"    VR Minecraft, woop woop!"
+  },
+  "A67":{
+     "t":"s",
+     "v":"BeatSaberMods",
+     "r":"<t>BeatSaberMods</t>",
+     "h":"BeatSaberMods",
+     "w":"BeatSaberMods"
+  },
+  "B67":{
+     "t":"s",
+     "v":"https://discord.gg/beatsabermods",
+     "r":"<t>https://discord.gg/beatsabermods</t>",
+     "h":"https://discord.gg/beatsabermods",
+     "w":"https://discord.gg/beatsabermods",
+     "l":{
+        "id":"rId34",
+        "ref":"B67",
+        "Target":"https://discord.gg/beatsabermods",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/beatsabermods",
+           "Id":"rId34",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D67":{
+     "t":"s",
+     "v":"172k",
+     "r":"<t>172k</t>",
+     "h":"172k",
+     "w":"172k"
+  },
+  "E67":{
+     "t":"s",
+     "v":"Not Interested",
+     "r":"<t>Not Interested</t>",
+     "h":"Not Interested",
+     "w":"Not Interested"
+  },
+  "F67":{
+     "t":"s",
+     "v":"Gaming, BeatSabering",
+     "r":"<t>Gaming, BeatSabering</t>",
+     "h":"Gaming, BeatSabering",
+     "w":"Gaming, BeatSabering"
+  },
+  "A68":{
+     "t":"s",
+     "v":"    A modding community for the hugely popular Beat Saber VR app.",
+     "r":"<t xml:space=\"preserve\">    A modding community for the hugely popular Beat Saber VR app.</t>",
+     "h":"    A modding community for the hugely popular Beat Saber VR app.",
+     "w":"    A modding community for the hugely popular Beat Saber VR app."
+  },
+  "A69":{
+     "t":"s",
+     "v":"Beat Saber",
+     "r":"<t>Beat Saber</t>",
+     "h":"Beat Saber",
+     "w":"Beat Saber"
+  },
+  "B69":{
+     "t":"s",
+     "v":"https://discord.gg/Kn3GS8H",
+     "r":"<t>https://discord.gg/Kn3GS8H</t>",
+     "h":"https://discord.gg/Kn3GS8H",
+     "w":"https://discord.gg/Kn3GS8H",
+     "l":{
+        "id":"rId35",
+        "ref":"B69",
+        "Target":"https://discord.gg/Kn3GS8H",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/Kn3GS8H",
+           "Id":"rId35",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D69":{
+     "t":"s",
+     "v":"2.3k",
+     "r":"<t>2.3k</t>",
+     "h":"2.3k",
+     "w":"2.3k"
+  },
+  "E69":{
+     "t":"s",
+     "v":"Not Interested",
+     "r":"<t>Not Interested</t>",
+     "h":"Not Interested",
+     "w":"Not Interested"
+  },
+  "F69":{
+     "t":"s",
+     "v":"VR Gaming",
+     "r":"<t>VR Gaming</t>",
+     "h":"VR Gaming",
+     "w":"VR Gaming"
+  },
+  "A70":{
+     "t":"s",
+     "v":"    Beat Saber is a VR rhythm game, where your goal is to slash the beats which fit perfectly into precisely handcrafted music.",
+     "r":"<t xml:space=\"preserve\">    Beat Saber is a VR rhythm game, where your goal is to slash the beats which fit perfectly into precisely handcrafted music.</t>",
+     "h":"    Beat Saber is a VR rhythm game, where your goal is to slash the beats which fit perfectly into precisely handcrafted music.",
+     "w":"    Beat Saber is a VR rhythm game, where your goal is to slash the beats which fit perfectly into precisely handcrafted music."
+  },
+  "A71":{
+     "t":"s",
+     "v":"Supermedium",
+     "r":"<t>Supermedium</t>",
+     "h":"Supermedium",
+     "w":"Supermedium"
+  },
+  "B71":{
+     "t":"s",
+     "v":"https://discord.gg/AM3P8zV",
+     "r":"<t>https://discord.gg/AM3P8zV</t>",
+     "h":"https://discord.gg/AM3P8zV",
+     "w":"https://discord.gg/AM3P8zV",
+     "l":{
+        "id":"rId36",
+        "ref":"B71",
+        "Target":"https://discord.gg/AM3P8zV",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/AM3P8zV",
+           "Id":"rId36",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D71":{
+     "t":"n",
+     "v":264,
+     "w":"264"
+  },
+  "E71":{
+     "t":"s",
+     "v":"Not Interested",
+     "r":"<t>Not Interested</t>",
+     "h":"Not Interested",
+     "w":"Not Interested"
+  },
+  "F71":{
+     "t":"s",
+     "v":"Vr Browser",
+     "r":"<t>Vr Browser</t>",
+     "h":"Vr Browser",
+     "w":"Vr Browser"
+  },
+  "A72":{
+     "t":"s",
+     "v":"    The Browser for the VR Internet, building an open VR platform on the Web that people want to use.",
+     "r":"<t xml:space=\"preserve\">    The Browser for the VR Internet, building an open VR platform on the Web that people want to use.</t>",
+     "h":"    The Browser for the VR Internet, building an open VR platform on the Web that people want to use.",
+     "w":"    The Browser for the VR Internet, building an open VR platform on the Web that people want to use."
+  },
+  "A73":{
+     "t":"s",
+     "v":"VRChat",
+     "r":"<t>VRChat</t>",
+     "h":"VRChat",
+     "w":"VRChat"
+  },
+  "B73":{
+     "t":"s",
+     "v":"https://discord.gg/vrchat",
+     "r":"<t>https://discord.gg/vrchat</t>",
+     "h":"https://discord.gg/vrchat",
+     "w":"https://discord.gg/vrchat",
+     "l":{
+        "id":"rId37",
+        "ref":"B73",
+        "Target":"https://discord.gg/vrchat",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/vrchat",
+           "Id":"rId37",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D73":{
+     "t":"s",
+     "v":"20k",
+     "r":"<t>20k</t>",
+     "h":"20k",
+     "w":"20k"
+  },
+  "E73":{
+     "t":"s",
+     "v":"Not Interested",
+     "r":"<t>Not Interested</t>",
+     "h":"Not Interested",
+     "w":"Not Interested"
+  },
+  "F73":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A74":{
+     "t":"s",
+     "v":"    Create and play in virtual worlds.",
+     "r":"<t xml:space=\"preserve\">    Create and play in virtual worlds.</t>",
+     "h":"    Create and play in virtual worlds.",
+     "w":"    Create and play in virtual worlds."
+  },
+  "A75":{
+     "t":"s",
+     "v":"Recroom",
+     "r":"<t>Recroom</t>",
+     "h":"Recroom",
+     "w":"Recroom"
+  },
+  "B75":{
+     "t":"s",
+     "v":"https://discord.gg/recroom",
+     "r":"<t>https://discord.gg/recroom</t>",
+     "h":"https://discord.gg/recroom",
+     "w":"https://discord.gg/recroom",
+     "l":{
+        "id":"rId38",
+        "ref":"B75",
+        "Target":"https://discord.gg/recroom",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/recroom",
+           "Id":"rId38",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D75":{
+     "t":"s",
+     "v":"6.4k",
+     "r":"<t>6.4k</t>",
+     "h":"6.4k",
+     "w":"6.4k"
+  },
+  "E75":{
+     "t":"s",
+     "v":"Not Interested",
+     "r":"<t>Not Interested</t>",
+     "h":"Not Interested",
+     "w":"Not Interested"
+  },
+  "F75":{
+     "t":"s",
+     "v":"Social VR, Gaming",
+     "r":"<t>Social VR, Gaming</t>",
+     "h":"Social VR, Gaming",
+     "w":"Social VR, Gaming"
+  },
+  "A76":{
+     "t":"s",
+     "v":"    Rec Room is the best place to hang out with friends from all around the world! Play multiplayer games like Paintball, or just chill in the park.",
+     "r":"<t xml:space=\"preserve\">    Rec Room is the best place to hang out with friends from all around the world! Play multiplayer games like Paintball, or just chill in the park.</t>",
+     "h":"    Rec Room is the best place to hang out with friends from all around the world! Play multiplayer games like Paintball, or just chill in the park.",
+     "w":"    Rec Room is the best place to hang out with friends from all around the world! Play multiplayer games like Paintball, or just chill in the park."
+  },
+  "A77":{
+     "t":"s",
+     "v":"OrbusVR",
+     "r":"<t>OrbusVR</t>",
+     "h":"OrbusVR",
+     "w":"OrbusVR"
+  },
+  "B77":{
+     "t":"s",
+     "v":"https://discord.gg/NsaczR7",
+     "r":"<t>https://discord.gg/NsaczR7</t>",
+     "h":"https://discord.gg/NsaczR7",
+     "w":"https://discord.gg/NsaczR7",
+     "l":{
+        "id":"rId39",
+        "ref":"B77",
+        "Target":"https://discord.gg/NsaczR7",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/NsaczR7",
+           "Id":"rId39",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D77":{
+     "t":"s",
+     "v":"3.3k",
+     "r":"<t>3.3k</t>",
+     "h":"3.3k",
+     "w":"3.3k"
+  },
+  "E77":{
+     "t":"s",
+     "v":"Not Interested",
+     "r":"<t>Not Interested</t>",
+     "h":"Not Interested",
+     "w":"Not Interested"
+  },
+  "F77":{
+     "t":"s",
+     "v":"Gaming, VRMMORPG",
+     "r":"<t>Gaming, VRMMORPG</t>",
+     "h":"Gaming, VRMMORPG",
+     "w":"Gaming, VRMMORPG"
+  },
+  "A78":{
+     "t":"s",
+     "v":"    OrbusVR is the world's first VRMMORPG designed from the ground up for room-scale virtual reality on HTC Vive and Oculus Rift + Touch.",
+     "r":"<t xml:space=\"preserve\">    OrbusVR is the world's first VRMMORPG designed from the ground up for room-scale virtual reality on HTC Vive and Oculus Rift + Touch.</t>",
+     "h":"    OrbusVR is the world&apos;s first VRMMORPG designed from the ground up for room-scale virtual reality on HTC Vive and Oculus Rift + Touch.",
+     "w":"    OrbusVR is the world's first VRMMORPG designed from the ground up for room-scale virtual reality on HTC Vive and Oculus Rift + Touch."
+  },
+  "A79":{
+     "t":"s",
+     "v":"BigScreen Beta",
+     "r":"<t>BigScreen Beta</t>",
+     "h":"BigScreen Beta",
+     "w":"BigScreen Beta"
+  },
+  "B79":{
+     "t":"s",
+     "v":"https://discord.gg/bigscreen",
+     "r":"<t>https://discord.gg/bigscreen</t>",
+     "h":"https://discord.gg/bigscreen",
+     "w":"https://discord.gg/bigscreen",
+     "l":{
+        "id":"rId40",
+        "ref":"B79",
+        "Target":"https://discord.gg/bigscreen",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/bigscreen",
+           "Id":"rId40",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D79":{
+     "t":"s",
+     "v":"4.5k",
+     "r":"<t>4.5k</t>",
+     "h":"4.5k",
+     "w":"4.5k"
+  },
+  "E79":{
+     "t":"s",
+     "v":"Not Interested",
+     "r":"<t>Not Interested</t>",
+     "h":"Not Interested",
+     "w":"Not Interested"
+  },
+  "F79":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A80":{
+     "t":"s",
+     "v":"    Bigscreen lets you use your PC desktop in VR. Watch movies with friends in a virtual movie theater.",
+     "r":"<t xml:space=\"preserve\">    Bigscreen lets you use your PC desktop in VR. Watch movies with friends in a virtual movie theater.</t>",
+     "h":"    Bigscreen lets you use your PC desktop in VR. Watch movies with friends in a virtual movie theater.",
+     "w":"    Bigscreen lets you use your PC desktop in VR. Watch movies with friends in a virtual movie theater."
+  },
+  "A81":{
+     "t":"s",
+     "v":"DisruptReality",
+     "r":"<t>DisruptReality</t>",
+     "h":"DisruptReality",
+     "w":"DisruptReality"
+  },
+  "B81":{
+     "t":"s",
+     "v":"https://discord.gg/gxXrYZx",
+     "r":"<t>https://discord.gg/gxXrYZx</t>",
+     "h":"https://discord.gg/gxXrYZx",
+     "w":"https://discord.gg/gxXrYZx",
+     "l":{
+        "id":"rId41",
+        "ref":"B81",
+        "Target":"https://discord.gg/gxXrYZx",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/gxXrYZx",
+           "Id":"rId41",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D81":{
+     "t":"s",
+     "v":"3.6k",
+     "r":"<t>3.6k</t>",
+     "h":"3.6k",
+     "w":"3.6k"
+  },
+  "E81":{
+     "t":"s",
+     "v":"Not Interested",
+     "r":"<t>Not Interested</t>",
+     "h":"Not Interested",
+     "w":"Not Interested"
+  },
+  "F81":{
+     "t":"s",
+     "v":"Content Studio",
+     "r":"<t>Content Studio</t>",
+     "h":"Content Studio",
+     "w":"Content Studio"
+  },
+  "A82":{
+     "t":"s",
+     "v":"    A futurist studio & community",
+     "r":"<t xml:space=\"preserve\">    A futurist studio &amp; community</t>",
+     "h":"    A futurist studio &amp; community",
+     "w":"    A futurist studio & community"
+  },
+  "A83":{
+     "t":"s",
+     "v":"Anarchy Arcade",
+     "r":"<t>Anarchy Arcade</t>",
+     "h":"Anarchy Arcade",
+     "w":"Anarchy Arcade"
+  },
+  "B83":{
+     "t":"s",
+     "v":"https://discord.gg/9FSCDuJ",
+     "r":"<t>https://discord.gg/9FSCDuJ</t>",
+     "h":"https://discord.gg/9FSCDuJ",
+     "w":"https://discord.gg/9FSCDuJ",
+     "l":{
+        "id":"rId42",
+        "ref":"B83",
+        "Target":"https://discord.gg/9FSCDuJ",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/9FSCDuJ",
+           "Id":"rId42",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D83":{
+     "t":"n",
+     "v":180,
+     "w":"180"
+  },
+  "E83":{
+     "t":"s",
+     "v":"Not Interested",
+     "r":"<t>Not Interested</t>",
+     "h":"Not Interested",
+     "w":"Not Interested"
+  },
+  "F83":{
+     "t":"s",
+     "v":"3D Metaverse",
+     "r":"<t>3D Metaverse</t>",
+     "h":"3D Metaverse",
+     "w":"3D Metaverse"
+  },
+  "A84":{
+     "t":"s",
+     "v":"    Welcome to the true metaverse... the one that's existed since the internet was 1st created.",
+     "r":"<t xml:space=\"preserve\">    Welcome to the true metaverse... the one that's existed since the internet was 1st created.</t>",
+     "h":"    Welcome to the true metaverse... the one that&apos;s existed since the internet was 1st created.",
+     "w":"    Welcome to the true metaverse... the one that's existed since the internet was 1st created."
+  },
+  "A85":{
+     "t":"s",
+     "v":"VRC Prefabs",
+     "r":"<t>VRC Prefabs</t>",
+     "h":"VRC Prefabs",
+     "w":"VRC Prefabs"
+  },
+  "B85":{
+     "t":"s",
+     "v":"https://tinyurl.com/vrcprefabs",
+     "r":"<t>https://tinyurl.com/vrcprefabs</t>",
+     "h":"https://tinyurl.com/vrcprefabs",
+     "w":"https://tinyurl.com/vrcprefabs",
+     "l":{
+        "id":"rId43",
+        "ref":"B85",
+        "Target":"https://tinyurl.com/vrcprefabs",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://tinyurl.com/vrcprefabs",
+           "Id":"rId43",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D85":{
+     "t":"n",
+     "v":282,
+     "w":"282"
+  },
+  "E85":{
+     "t":"s",
+     "v":"Not Interested",
+     "r":"<t>Not Interested</t>",
+     "h":"Not Interested",
+     "w":"Not Interested"
+  },
+  "F85":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A86":{
+     "t":"s",
+     "v":"    VRChat Prefabs Community",
+     "r":"<t xml:space=\"preserve\">    VRChat Prefabs Community</t>",
+     "h":"    VRChat Prefabs Community",
+     "w":"    VRChat Prefabs Community"
+  },
+  "A87":{
+     "t":"s",
+     "v":"TheWaveVR",
+     "r":"<t>TheWaveVR</t>",
+     "h":"TheWaveVR",
+     "w":"TheWaveVR"
+  },
+  "B87":{
+     "t":"s",
+     "v":"https://discord.gg/TheWaveVR",
+     "r":"<t>https://discord.gg/TheWaveVR</t>",
+     "h":"https://discord.gg/TheWaveVR",
+     "w":"https://discord.gg/TheWaveVR",
+     "l":{
+        "id":"rId44",
+        "ref":"B87",
+        "Target":"https://discord.gg/TheWaveVR",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/TheWaveVR",
+           "Id":"rId44",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D87":{
+     "t":"s",
+     "v":"1.4k",
+     "r":"<t>1.4k</t>",
+     "h":"1.4k",
+     "w":"1.4k"
+  },
+  "E87":{
+     "t":"s",
+     "v":"No Response",
+     "r":"<t>No Response</t>",
+     "h":"No Response",
+     "w":"No Response"
+  },
+  "F87":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A88":{
+     "t":"s",
+     "v":"    TheWaveVR is an online music festival that never sleeps, allowing music fans to view, host, and socialize in virtual shows at anytime, from anywhere.",
+     "r":"<t xml:space=\"preserve\">    TheWaveVR is an online music festival that never sleeps, allowing music fans to view, host, and socialize in virtual shows at anytime, from anywhere.</t>",
+     "h":"    TheWaveVR is an online music festival that never sleeps, allowing music fans to view, host, and socialize in virtual shows at anytime, from anywhere.",
+     "w":"    TheWaveVR is an online music festival that never sleeps, allowing music fans to view, host, and socialize in virtual shows at anytime, from anywhere."
+  },
+  "A89":{
+     "t":"s",
+     "v":"NathieVR",
+     "r":"<t>NathieVR</t>",
+     "h":"NathieVR",
+     "w":"NathieVR"
+  },
+  "B89":{
+     "t":"s",
+     "v":"http://discord.gg/x53syBs",
+     "r":"<t>http://discord.gg/x53syBs</t>",
+     "h":"http://discord.gg/x53syBs",
+     "w":"http://discord.gg/x53syBs",
+     "l":{
+        "id":"rId45",
+        "ref":"B89",
+        "Target":"http://discord.gg/x53syBs",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"http://discord.gg/x53syBs",
+           "Id":"rId45",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D89":{
+     "t":"n",
+     "v":350,
+     "w":"350"
+  },
+  "E89":{
+     "t":"s",
+     "v":"No Response",
+     "r":"<t>No Response</t>",
+     "h":"No Response",
+     "w":"No Response"
+  },
+  "F89":{
+     "t":"s",
+     "v":"Content Studio",
+     "r":"<t>Content Studio</t>",
+     "h":"Content Studio",
+     "w":"Content Studio"
+  },
+  "A90":{
+     "t":"s",
+     "v":"    Fan Server for NathieVR YouTube Channel",
+     "r":"<t xml:space=\"preserve\">    Fan Server for NathieVR YouTube Channel</t>",
+     "h":"    Fan Server for NathieVR YouTube Channel",
+     "w":"    Fan Server for NathieVR YouTube Channel"
+  },
+  "A91":{
+     "t":"s",
+     "v":"Tilt5",
+     "r":"<t>Tilt5</t>",
+     "h":"Tilt5",
+     "w":"Tilt5"
+  },
+  "B91":{
+     "t":"s",
+     "v":"https://discord.gg/wFP6kt4",
+     "r":"<t>https://discord.gg/wFP6kt4</t>",
+     "h":"https://discord.gg/wFP6kt4",
+     "w":"https://discord.gg/wFP6kt4",
+     "l":{
+        "id":"rId46",
+        "ref":"B91",
+        "Target":"https://discord.gg/wFP6kt4",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/wFP6kt4",
+           "Id":"rId46",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D91":{
+     "t":"n",
+     "v":199,
+     "w":"199"
+  },
+  "E91":{
+     "t":"s",
+     "v":"No Response",
+     "r":"<t>No Response</t>",
+     "h":"No Response",
+     "w":"No Response"
+  },
+  "F91":{
+     "t":"s",
+     "v":"Gaming",
+     "r":"<t>Gaming</t>",
+     "h":"Gaming",
+     "w":"Gaming"
+  },
+  "A92":{
+     "t":"s",
+     "v":"    TableTop Augmented Reality Gaming System",
+     "r":"<t xml:space=\"preserve\">    TableTop Augmented Reality Gaming System</t>",
+     "h":"    TableTop Augmented Reality Gaming System",
+     "w":"    TableTop Augmented Reality Gaming System"
+  },
+  "A93":{
+     "t":"s",
+     "v":"MRTV",
+     "r":"<t>MRTV</t>",
+     "h":"MRTV",
+     "w":"MRTV"
+  },
+  "B93":{
+     "t":"s",
+     "v":"https://discord.gg/AnvW6Zq",
+     "r":"<t>https://discord.gg/AnvW6Zq</t>",
+     "h":"https://discord.gg/AnvW6Zq",
+     "w":"https://discord.gg/AnvW6Zq",
+     "l":{
+        "id":"rId47",
+        "ref":"B93",
+        "Target":"https://discord.gg/AnvW6Zq",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/AnvW6Zq",
+           "Id":"rId47",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D93":{
+     "t":"s",
+     "v":"1.6k",
+     "r":"<t>1.6k</t>",
+     "h":"1.6k",
+     "w":"1.6k"
+  },
+  "E93":{
+     "t":"s",
+     "v":"No Response",
+     "r":"<t>No Response</t>",
+     "h":"No Response",
+     "w":"No Response"
+  },
+  "F93":{
+     "t":"s",
+     "v":"News",
+     "r":"<t>News</t>",
+     "h":"News",
+     "w":"News"
+  },
+  "A94":{
+     "t":"s",
+     "v":"    Mixed Reality TV Gaming YouTube Channel Server",
+     "r":"<t xml:space=\"preserve\">    Mixed Reality TV Gaming YouTube Channel Server</t>",
+     "h":"    Mixed Reality TV Gaming YouTube Channel Server",
+     "w":"    Mixed Reality TV Gaming YouTube Channel Server"
+  },
+  "A95":{
+     "t":"s",
+     "v":"VRChat Party Community",
+     "r":"<t>VRChat Party Community</t>",
+     "h":"VRChat Party Community",
+     "w":"VRChat Party Community"
+  },
+  "B95":{
+     "t":"s",
+     "v":"https://discord.gg/j8SuJM",
+     "r":"<t>https://discord.gg/j8SuJM</t>",
+     "h":"https://discord.gg/j8SuJM",
+     "w":"https://discord.gg/j8SuJM",
+     "l":{
+        "id":"rId48",
+        "ref":"B95",
+        "Target":"https://discord.gg/j8SuJM",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/j8SuJM",
+           "Id":"rId48",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D95":{
+     "t":"s",
+     "v":"1.5k",
+     "r":"<t>1.5k</t>",
+     "h":"1.5k",
+     "w":"1.5k"
+  },
+  "E95":{
+     "t":"s",
+     "v":"No Response",
+     "r":"<t>No Response</t>",
+     "h":"No Response",
+     "w":"No Response"
+  },
+  "F95":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A96":{
+     "t":"s",
+     "v":"    VRChat Party Community",
+     "r":"<t xml:space=\"preserve\">    VRChat Party Community</t>",
+     "h":"    VRChat Party Community",
+     "w":"    VRChat Party Community"
+  },
+  "A97":{
+     "t":"s",
+     "v":"VRChat Events",
+     "r":"<t>VRChat Events</t>",
+     "h":"VRChat Events",
+     "w":"VRChat Events"
+  },
+  "B97":{
+     "t":"s",
+     "v":"https://discord.gg/hxWejH",
+     "r":"<t>https://discord.gg/hxWejH</t>",
+     "h":"https://discord.gg/hxWejH",
+     "w":"https://discord.gg/hxWejH",
+     "l":{
+        "id":"rId49",
+        "ref":"B97",
+        "Target":"https://discord.gg/hxWejH",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/hxWejH",
+           "Id":"rId49",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "D97":{
+     "t":"s",
+     "v":"1.1k",
+     "r":"<t>1.1k</t>",
+     "h":"1.1k",
+     "w":"1.1k"
+  },
+  "E97":{
+     "t":"s",
+     "v":"No Response",
+     "r":"<t>No Response</t>",
+     "h":"No Response",
+     "w":"No Response"
+  },
+  "F97":{
+     "t":"s",
+     "v":"Social VR",
+     "r":"<t>Social VR</t>",
+     "h":"Social VR",
+     "w":"Social VR"
+  },
+  "A99":{
+     "t":"s",
+     "v":"#SpatialComputing",
+     "r":"<t>#SpatialComputing</t>",
+     "h":"#SpatialComputing",
+     "w":"#SpatialComputing"
+  },
+  "B99":{
+     "t":"s",
+     "v":"https://discord.gg/JaEjfWM",
+     "r":"<r><rPr><color rgb=\"FF1155CC\"/><u/></rPr><t>https://discord.gg/JaEjfWM</t></r>",
+     "h":"<span style=\"text-decoration: underline;\">https://discord.gg/JaEjfWM</span>",
+     "w":"https://discord.gg/JaEjfWM",
+     "l":{
+        "id":"rId50",
+        "ref":"B99",
+        "Target":"https://discord.gg/JaEjfWM",
+        "Rel":{
+           "Type":"http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+           "Target":"https://discord.gg/JaEjfWM",
+           "Id":"rId50",
+           "TargetMode":"External"
+        }
+     }
+  },
+  "F99":{
+     "t":"s",
+     "v":"News",
+     "r":"<t>News</t>",
+     "h":"News",
+     "w":"News"
+  },
+  "A100":{
+     "t":"s",
+     "v":"Spatial Computing deals in news and conversation for all things #SpatialComputing and #XR Industry-realted",
+     "r":"<t>Spatial Computing deals in news and conversation for all things #SpatialComputing and #XR Industry-realted</t>",
+     "h":"Spatial Computing deals in news and conversation for all things #SpatialComputing and #XR Industry-realted",
+     "w":"Spatial Computing deals in news and conversation for all things #SpatialComputing and #XR Industry-realted"
+  },
+  "Z1022":{
+     "t":"s",
+     "v":"heh",
+     "r":"<t>heh</t>",
+     "h":"heh",
+     "w":"heh"
+  },
+  "!autofilter":{
+     "ref":"$A$1:$F$93"
+  },
+  "!margins":{
+     "left":0.7,
+     "right":0.7,
+     "top":0.75,
+     "bottom":0.75,
+     "header":0,
+     "footer":0
+  },
+  "!ref":"A1:Z1022",
+  "!merges":[
+     {
+        "s":{
+           "c":0,
+           "r":0
+        },
+        "e":{
+           "c":5,
+           "r":0
+        }
+     }
+  ]
+}
