@@ -1,11 +1,18 @@
 package main
 
-import "fmt"
+import (
+  "fmt"
+)
 
 func main() {
-	fmt.Println(nil)
+  var msg[2]string
+
+  msg[0] = "Hello"
+  msg[1] = "Word"
+
+  fmt.Println(msg)
 }
 
-func sayHello() (string) {
-	return "hello world"
+func sayHello()(string) {
+  return "hello world"
 }
