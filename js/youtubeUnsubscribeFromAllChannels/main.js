@@ -1,11 +1,13 @@
 /*
- * 1.
- * Go to https://www.youtube.com/feed/channels and scroll to the 
- * bottom of the page to populate all items to the screen. 
- *
- * 2.
- * run the following code on the console.
+ * 1. Go to https://www.youtube.com/feed/channels  
+ * 2. run the following code on the console. 
+ * 3. sit back and watch
 */
+
+// automatically scrolls to the bottom of the page
+var scrollInterval = setInterval(function() {
+    document.documentElement.scrollTop = document.documentElement.scrollHeight;
+}, 50);
 
 let i = 0;
 let myVar = setInterval(myTimer, 1000);
@@ -24,8 +26,8 @@ function myTimer () {
 
     i++;
 
-    console.log(i + " unsubscribed by YOGIE");
-    console.log(els.length + " remaining");
+    console.log(i + " channels unsubscribed");
+    console.log(els.length + " channels remaining");
 
 }
 
