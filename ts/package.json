@@ -1,14 +1,16 @@
 {
   "name": "ts",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.ts",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^14.11.2",
     "@types/typescript": "^2.0.0",
     "tsc": "^1.20150623.0",
     "typescript": "^4.0.2"
   },
   "scripts": {
-    "start": "tsc main.ts --watch"
+    "start": "node build/main.js",
+    "ts": "tsc main.ts --watch --outDir build/"
   }
 }
