@@ -1,0 +1,5 @@
+# Simple get request
+curl -H "Authorization: nick" localhost:3000/json_placeholder/posts/1
+
+# Simple post request
+curl -X POST -H "Authorization: credentials" --data '{"title":"Building a Node.js Proxy Server", "body":"We have all heard the term proxy ...", "userId":"1"}' localhost:3000/json_placeholder/posts
