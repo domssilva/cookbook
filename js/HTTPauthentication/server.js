@@ -9,6 +9,19 @@ const server = http.createServer(app);
 app.use(morgan('dev'));
 
 // routes
+const data = {
+  users: [
+    {username: 'nick012', age: 22, id: '1'},
+    {username: 'doeh12n', age: 28, id: '2'},
+    {username: 'jh33n', age: 32, id: '3'},
+  ],
+  endpoints: [
+    '/profile',
+    '/dashboard',
+    '/api/v2',
+  ],
+};
+
 app.get('/', (req, res) => {
   res.statusCode = 200;
   res.send('home.');
@@ -17,12 +30,18 @@ app.get('/', (req, res) => {
 // api route requires authentication
 app.get('/api', (req, res) => {
   const requestHeaders = req.headers;
-  if (requestHeaders.authorization) {
-    console.log('check auth');
-  }
+  console.log(requestHeaders);
 
-  res.statusCode = 401;
-  res.end('authentication failed');
+  if (requestHeaders.authorization) {
+    if (requestHeaders.authorization === 'bearer admin') {
+      res.statusCode = 200;
+      res.send(data);
+      res.end();
+    }
+  } else {
+    res.statusCode = 401;
+    res.end('authentication failed');
+  }
 });
 
 server.listen(3000, 'localhost', () => {
