@@ -1,22 +1,11 @@
-# HTTP Basic Authentication
+# Basic Authentication
 
-HTTP provides a general framework for access control and  
-authentication, via an extensible set of challenge-response  
-authentication schemes, which can be used by a server to challenge a  
-client request and by a client to provide authentication information.  
-
-![](https://media.prod.mdn.mozit.cloud/attachments/2017/02/21/14689/3a44ec0bfe7597613dfb913e450a68eb/HTTPAuth.png)
-
-### References
-- https://tools.ietf.org/html/rfc7235
-- https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication
-- https://dev.to/edemagbenyo/nodejs-authentication-with-http-basic-access-part-1-ii2
-
-### How it works
 1. client makes request to a resource that requires authorization
 2. server verifies if request contains required authentication headers
   - if invalid -> status code 401 
   - if invalid -> status code 200 
+
+![](../../imgs/HTTPAuth.png)
 
 ### Typical request header received 
 
@@ -36,7 +25,7 @@ client request and by a client to provide authentication information.
 }
 ```
 
-### Curl auth ex01
+### Curl auth
 ```bash
 curl localhost:3000/api -H "Authorization: bearer admin"
 ```
