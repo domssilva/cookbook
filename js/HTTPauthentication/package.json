@@ -1,0 +1,20 @@
+{
+  "name": "HTTPauthentication",
+  "version": "1.0.0",
+  "description": "### References - https://dev.to/edemagbenyo/nodejs-authentication-with-http-basic-access-part-1-ii2 - https://www.ietf.org/rfc/rfc2617.txt",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
