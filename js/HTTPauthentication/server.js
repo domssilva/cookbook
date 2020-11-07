@@ -16,6 +16,11 @@ app.get('/', (req, res) => {
 
 // api route requires authentication
 app.get('/api', (req, res) => {
+  const requestHeaders = req.headers;
+  if (requestHeaders.authorization) {
+    console.log('check auth');
+  }
+
   res.statusCode = 401;
   res.end('authentication failed');
 });
