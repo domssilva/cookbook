@@ -33,3 +33,8 @@ scheme.
   'cache-control': 'max-age=0' 
 }
 ```
+
+### Curl auth
+```bash
+curl localhost:3000/api -H "Authorization: bearer admin"
+```
