@@ -9,21 +9,22 @@ app.use(cookieParser());
 app.use(bodyParser.urlencoded({extended: false}))
 
 // "database" data
-const USERS = {
-  alice: 'password',
-  bob: 'hunter2',
-};
-
-const BALANCES = {
-  alice: 350.50,
-  bob: -1400,
-};
+const db = {
+  USERS : {
+    alice: 'password',
+    bob: 'hunter2',
+  },
+  BALANCES : {
+    alice: 350.50,
+    bob: -1400,
+  },
+}
 
 // routes
 app.get('/', (req, res) => {
   const username = req.cookies.username
   if (username) {
-    const balance = BALANCES[username];
+    const balance = db.BALANCES[username];
     const html = `
       <html>
         <body>
@@ -32,6 +33,9 @@ app.get('/', (req, res) => {
             Balance =
             $<span style="color:${balance > 0? 'green': 'red'}">${balance}</span>
           </p>
+          <button>
+            <a href="/logout">logout</a>
+          </button>
         </body>
       </html>
     `;
@@ -44,7 +48,7 @@ app.get('/', (req, res) => {
 app.post('/login', (req, res) => {
   const reqUsername = req.body.username;
   const reqPassword = req.body.password;
-  const userPassword = USERS[reqUsername];
+  const userPassword = db.USERS[reqUsername];
   if (reqPassword === userPassword) {
     res.cookie('username', reqUsername);
     res.redirect('/');
@@ -54,7 +58,14 @@ app.post('/login', (req, res) => {
 });
 
 app.get('/logout', (req, res) => {
-  // deleting the cookie
+  /*
+    deleting the cookie
+    username=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+
+    There is no standard way of deleting cookies, so basically when we destroy the cookie,
+    the browser just reassigns it to an empty string and sets and expiration date to any arbitrary
+    in the past date so that the cookie cease to exist.
+  */
   res.clearCookie('username');
   res.redirect('/');
 });
