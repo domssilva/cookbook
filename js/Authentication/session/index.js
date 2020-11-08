@@ -4,8 +4,11 @@ const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 const app = express();
 
+// random generated string used for the cookie signature
+const COOKIE_SECRET = 'AJM39JF9WR0Adsfjo9';
+
 // server config
-app.use(cookieParser());
+app.use(cookieParser(COOKIE_SECRET));
 app.use(bodyParser.urlencoded({extended: false}))
 
 // "database" data
@@ -22,7 +25,7 @@ const db = {
 
 // routes
 app.get('/', (req, res) => {
-  const username = req.cookies.username
+  const username = req.signedCookies.username
   if (username) {
     const balance = db.BALANCES[username];
     const html = `
@@ -50,7 +53,7 @@ app.post('/login', (req, res) => {
   const reqPassword = req.body.password;
   const userPassword = db.USERS[reqUsername];
   if (reqPassword === userPassword) {
-    res.cookie('username', reqUsername);
+    res.cookie('username', reqUsername, {signed: true});
     res.redirect('/');
   } else {
     res.send('authentication failed.');
