@@ -24,8 +24,18 @@ app.get('/', (req, res) => {
   const username = req.cookies.username
   if (username) {
     const balance = BALANCES[username];
-    res.send(`Hi ${username}.`);
-    res.send(`Your balance is $${balance}`);
+    const html = `
+      <html>
+        <body>
+          <h3>${username}'s account:</h3>
+          <p>
+            Balance =
+            $<span style="color:${balance > 0? 'green': 'red'}">${balance}</span>
+          </p>
+        </body>
+      </html>
+    `;
+    res.send(html);
   } else {
     createReadStream('index.html').pipe(res);
   }
