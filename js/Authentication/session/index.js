@@ -21,22 +21,22 @@ const BALANCES = {
 
 // routes
 app.get('/', (req, res) => {
-  // const username = req.cookie.username
-  // if (username) {
-  //   const balance = BALANCES[username];
-  //   res.send(`Hi ${username}.`);
-  //   res.send(`Your balance is $${balance}`);
-  // } else {
-  //   createReadStream('index.html').pipe(res);
-  // }
-  createReadStream('index.html').pipe(res);
+  const username = req.cookies.username
+  if (username) {
+    const balance = BALANCES[username];
+    res.send(`Hi ${username}.`);
+    res.send(`Your balance is $${balance}`);
+  } else {
+    createReadStream('index.html').pipe(res);
+  }
 });
 
 app.post('/login', (req, res) => {
-  const username = req.body.username;
-  const password = USERS[username]
-  if (password === req.body.password) {
-    res.cookie('username', username);
+  const reqUsername = req.body.username;
+  const reqPassword = req.body.password;
+  const userPassword = USERS[reqUsername];
+  if (reqPassword === userPassword) {
+    res.cookie('username', reqUsername);
     res.redirect('/');
   } else {
     res.send('authentication failed.');
