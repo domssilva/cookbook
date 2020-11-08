@@ -68,6 +68,8 @@ app.get('/logout', (req, res) => {
     There is no standard way of deleting cookies, so basically when we destroy the cookie,
     the browser just reassigns it to an empty string and sets and expiration date to any arbitrary
     in the past date so that the cookie cease to exist.
+
+    VULNERABILITY: if you store the user session, you can still log in as user after they logged out
   */
   res.clearCookie('username');
   res.redirect('/');
