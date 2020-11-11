@@ -1,6 +1,7 @@
 # preparing my new vps for HUNTING!!!
 apt-get update
 apt-get install unzip -y
+apt install chromium-browser -y # aquatone dependency
 apt install golang-go -y
 
 # tools
