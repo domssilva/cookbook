@@ -1,3 +1,6 @@
+# Perl http server 1 liner
+plackup -MPlack::App::Directory -e 'Plack::App::Directory->new(root=>".");' -p 8000
+
 # Aquatone
 
 ```bash
