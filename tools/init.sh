@@ -21,4 +21,3 @@ export PATH=$PATH:/root/go/bin/
 
 # perl: http server
 cpan Plack
-plackup -MPlack::App::Directory -e 'Plack::App::Directory->new(root=>".");' -p 8000
