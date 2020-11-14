@@ -4,7 +4,7 @@ plackup -MPlack::App::Directory -e 'Plack::App::Directory->new(root=>".");' -p 8
 # Aquatone
 
 ```bash
-cat hosts.txt | aquatone -ports large
+cat alive | aquatone -ports large
 ```
 
 - small: 80, 443
