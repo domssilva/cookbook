@@ -1,6 +1,7 @@
 # preparing my new vps for HUNTING!!!
 apt-get update
 apt-get install unzip -y
+apt install chromium-browser -y # aquatone dependency
 apt install golang-go -y
 
 # tools
@@ -20,4 +21,3 @@ export PATH=$PATH:/root/go/bin/
 
 # perl: http server
 cpan Plack
-plackup -MPlack::App::Directory -e 'Plack::App::Directory->new(root=>".");' -p 8000
