@@ -9,7 +9,7 @@ const COOKIE_SECRET = 'AJM39JF9WR0Adsfjo9';
 
 // server config
 app.use(cookieParser(COOKIE_SECRET));
-app.use(bodyParser.urlencoded({extended: false}))
+app.use(bodyParser.urlencoded({extended: false}));
 
 // "database" data
 const db = {
@@ -21,11 +21,15 @@ const db = {
     alice: 350.50,
     bob: -1400,
   },
-}
+  // mapping sessionId -> username
+  SESSIONS: {
+  },
+};
 
 // routes
 app.get('/', (req, res) => {
-  const username = req.signedCookies.username
+  const sessionId = req.cookies.sessionId;
+  const username = db.SESSIONS[sessionId];
   if (username) {
     const balance = db.BALANCES[username];
     const html = `
@@ -48,12 +52,17 @@ app.get('/', (req, res) => {
   }
 });
 
+let nextSessionId = 0;
+
 app.post('/login', (req, res) => {
-  const reqUsername = req.body.username;
-  const reqPassword = req.body.password;
-  const userPassword = db.USERS[reqUsername];
-  if (reqPassword === userPassword) {
-    res.cookie('username', reqUsername, {signed: true});
+  const username = req.body.username;
+  const password = req.body.password;
+  if (password === db.USERS[username]) {
+    // res.cookie('username', reqUsername, {signed: true});
+    res.cookie('sessionId', nextSessionId);
+    db.SESSIONS[nextSessionId] = username;
+    nextSessionId += 1;
+
     res.redirect('/');
   } else {
     res.send('authentication failed.');
@@ -71,7 +80,9 @@ app.get('/logout', (req, res) => {
 
     VULNERABILITY: if you store the user session, you can still log in as user after they logged out
   */
-  res.clearCookie('username');
+  const sessionId = req.cookies.sessionId;
+  delete db.SESSIONS[sessionId];
+  res.clearCookie('sessionId');
   res.redirect('/');
 });
 
