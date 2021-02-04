@@ -11,7 +11,7 @@ class Todo {
   isValid() {
     // 0 - "" - false = falsy value
     // !!{value} = converte valor para bool
-    return !!this.text;
+    return !!this.text && !isNaN(this.when.valueOf());
   }
 }
 

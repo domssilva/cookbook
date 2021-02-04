@@ -13,7 +13,23 @@ describe('todo', () => {
       const result = todo.isValid();
       expect(result).to.be.not.ok;
     });
-    it('should return invalid when creating an object using an invalid value for the "when" property')
-    it('should have "id", "text", "when" and "status" properties after creating object');
+    it('should return invalid when creating an object using an invalid value for the "when" property', () => {
+      const data = {
+        text: 'hello world',
+        when: new Date("20-12-01"),
+      };
+      const todo = new Todo(data);
+      const result = todo.isValid();
+      expect(result).to.be.not.ok;
+    });
+    it('should have "id", "text", "when" and "status" properties after creating object', () => {
+      const data = {
+          text: 'Hello world',
+          when: new Date("2021-12-01"),
+        };
+      const todo = new Todo(data);
+      const result = todo.isValid();
+      expect(result).to.be.ok;
+    });
   });
 });
