@@ -1,24 +1,26 @@
 import React from 'react';
 import {Container, Row, Col, Button} from 'react-bootstrap';
+import ProfessionForm from './Components/ProfessionForm';
+import {APPNAME} from './Utils/constants';
 
 function App() {
   return (
     <Container>
-      <Row>
-        <Col>
-          <h1>Hello Salary</h1>
+      <Row className="justify-content-md-center">
+        <Col md="auto">
+          <h1>{APPNAME}</h1>
         </Col>
       </Row>
       <Row>
         <Col>
-          <p>form 1</p>
+          <ProfessionForm />
         </Col>
         <Col>
           <p>form 2</p>
         </Col>
       </Row>
-      <Row>
-        <Col>
+      <Row className="justify-content-md-center">
+        <Col md="auto">
           <Button>get sheet</Button>
         </Col>
       </Row>
