@@ -1,7 +1,9 @@
 import React from 'react';
-import {Container, Row, Col, Button} from 'react-bootstrap';
-import ProfessionForm from './Components/ProfessionForm';
 import {APPNAME} from './Utils/constants';
+import {Container, Row, Col, Button} from 'react-bootstrap';
+
+import CountryForm from './Components/CountryForm';
+import ProfessionForm from './Components/ProfessionForm';
 
 function App() {
   return (
@@ -16,7 +18,7 @@ function App() {
           <ProfessionForm />
         </Col>
         <Col>
-          <p>form 2</p>
+          <CountryForm />
         </Col>
       </Row>
       <Row className="justify-content-md-center">
