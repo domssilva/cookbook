@@ -13,7 +13,7 @@ rentfees =
   }
 */
 
-const case1 = {
+const rentIptuCondominium = {
   total: 0,
   rent: 800,
   condominium: 100,
@@ -25,7 +25,7 @@ const case1 = {
   iptu_responsible: "include_with_rent",
 }
 
-const case2 = {
+const rentMissingProperty = {
   total: 0,
   rent: 800,
   condominium: 100,
@@ -63,7 +63,7 @@ const rentCondominium = {
 
 const getTotalRent = (rentfees) => {
 
-  totalRent = rentfees.rent
+  let totalRent = rentfees.rent
 
   if (rentfees.include_condominium && rentfees.condominium_responsible === 'include_with_rent') {
     totalRent += rentfees.condominium
@@ -77,8 +77,8 @@ const getTotalRent = (rentfees) => {
 }
 
 module.exports = {
-  case1,
-  case2,
+  rentIptuCondominium,
+  rentMissingProperty,
   rentIptu,
   rentCondominium,
   getTotalRent,
