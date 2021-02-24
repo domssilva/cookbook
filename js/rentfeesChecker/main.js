@@ -49,7 +49,7 @@ const rentIptu = {
   iptu_responsible: "include_with_rent",
 }
 
-const rentIptuCondominium = {
+const rentCondominium = {
   total: 0,
   rent: 800,
   condominium: 100,
@@ -80,6 +80,6 @@ module.exports = {
   case1,
   case2,
   rentIptu,
-  rentIptuCondominium,
+  rentCondominium,
   getTotalRent,
 }

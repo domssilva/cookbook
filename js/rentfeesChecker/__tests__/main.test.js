@@ -3,7 +3,7 @@ const {
   case2,
   getTotalRent,
   rentIptu,
-  rentIptuCondominium,
+  rentCondominium,
 } = require('../main')
 
 const RENTFEES_PROPERTIES = [
@@ -48,6 +48,11 @@ describe('Rentfees: getTotalRent', () => {
   it('rent + iptu', () => {
     const totalRent = rentIptu.rent + rentIptu.iptu_annual
     expect(getTotalRent(rentIptu)).toEqual(totalRent)
+  })
+
+  it('rent + condominium', () => {
+    const totalRent = rentCondominium.rent + rentCondominium.condominium
+    expect(getTotalRent(rentCondominium)).toEqual(totalRent)
   })
 
 })
