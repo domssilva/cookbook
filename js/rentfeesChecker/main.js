@@ -30,4 +30,19 @@ const case2 = {
   // iptu_responsible: "include_with_rent",
 }
 
-module.exports = {case1, case2}
+const getTotalRent = (rentfees) => {
+
+  totalRent = rentfees.rent
+
+  if (rentfees.include_condominium) {
+    totalRent += rentfees.condominium
+  }
+
+  if (rentfees.include_iptu) {
+    totalRent += rentfees.iptu_annual
+  }
+
+  return totalRent
+}
+
+module.exports = {case1, case2, getTotalRent}

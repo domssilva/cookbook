@@ -1,4 +1,4 @@
-const {case1, case2} = require('../main')
+const {case1, case2, getTotalRent} = require('../main')
 
 /*
 rentfees = 
@@ -27,7 +27,7 @@ const RENTFEES_PROPERTIES = [
   'iptu_responsible',
 ]
 
-describe('Rentfees: ', () => {
+describe('Rentfees: Properties ', () => {
 
   it('Possui todas as propriedades necessarias', () => {
     RENTFEES_PROPERTIES.map((properties) => {
@@ -42,3 +42,17 @@ describe('Rentfees: ', () => {
   })
 
 })
+
+describe('Rentfees: getTotalRent', () => {
+
+  it('Retorna numero', () => {
+    expect(typeof getTotalRent(case1)).toBe('number')
+  })
+
+  it('rent + iptu + condominium', () => {
+    const totalRent = case1.rent + case1.iptu_annual + case1.condominium
+    expect(getTotalRent(case1)).toEqual(totalRent)
+  })
+
+})
+
