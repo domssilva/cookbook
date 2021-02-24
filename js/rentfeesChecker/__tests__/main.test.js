@@ -1,19 +1,10 @@
-const {case1, case2, getTotalRent} = require('../main')
-
-/*
-rentfees = 
-  {
-    total:number
-    rent:number
-    condominium:number
-    iptu:number
-    iptu_annual:number // valor do IPTU/12 
-    include_condominium:boolean
-    include_iptu:boolean
-    condominium_responsible: 'include_with_rent'|'tenant'|'owner'
-    iptu_responsible: 'include_with_rent'|'tenant'|'owner'
-  }
-*/
+const {
+  case1, 
+  case2,
+  getTotalRent,
+  rentIptu,
+  rentIptuCondominium,
+} = require('../main')
 
 const RENTFEES_PROPERTIES = [
   'total',
@@ -52,6 +43,11 @@ describe('Rentfees: getTotalRent', () => {
   it('rent + iptu + condominium', () => {
     const totalRent = case1.rent + case1.iptu_annual + case1.condominium
     expect(getTotalRent(case1)).toEqual(totalRent)
+  })
+
+  it('rent + iptu', () => {
+    const totalRent = rentIptu.rent + rentIptu.iptu_annual
+    expect(getTotalRent(rentIptu)).toEqual(totalRent)
   })
 
 })
