@@ -3,6 +3,7 @@ package com.example.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
@@ -14,8 +15,14 @@ public class DemoApplication {
 	}
 
 	@GetMapping("/hello")
-	public String hello() {
-		return "Hello world!";
+	public String hello(@RequestParam(value = "name") String name) {
+		System.out.println("hello");
+		return String.format("Hello %s!", name);
+	}
+
+	@GetMapping("/error")
+	public String error() {
+		return "ops!";
 	}
 
 }
