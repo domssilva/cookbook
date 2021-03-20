@@ -1,12 +1,10 @@
 package app.database;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
+import java.sql.*;
 
 public class Connect {
     private final String DbPath = "jdbc:sqlite:/home/nick/Code/cookbook/java/Crud/src/main/resources/users.db";
-    private Connection connection = null;
+    private Connection connection;
 
     public Connect() {
         // https://stackoverflow.com/questions/1525444/how-to-connect-sqlite-with-java
@@ -18,18 +16,41 @@ public class Connect {
         }
     }
 
-    public void init() {
+    public Connection init() {
+        connection = null;
+
         try {
-            this.connection = DriverManager.getConnection(DbPath);
-            System.out.println("Db connected.");
+            connection = DriverManager.getConnection(DbPath);
+            // System.out.println("Db connected.");
         } catch (SQLException e) {
             e.printStackTrace();
         }
 
-        if (connection != null) {
+       return connection;
+    }
+
+    public void selectAll() {
+        String sql = "SELECT * FROM Users";
+        Connection conn = null;
+        try {
+            conn = this.init();
+            Statement stmt = conn.createStatement();
+            ResultSet rs = stmt.executeQuery(sql);
+
+            while (rs.next()) {
+                System.out.print(rs.getString("name"));
+                System.out.print(", ");
+                System.out.println(rs.getString("email"));
+            }
+
+            conn.close();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        if (conn != null) {
             try {
-                connection.close();
-                System.out.println("Db connection closed.");
+                conn.close();
             } catch (SQLException e) {
                 e.printStackTrace();
             }
