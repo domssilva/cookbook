@@ -48,12 +48,34 @@ public class Connect {
             e.printStackTrace();
         }
 
+        this.close(conn);
+    }
+
+    public void close(Connection conn) {
         if (conn != null) {
             try {
                 conn.close();
+                // System.out.println("db connection closed.");
             } catch (SQLException e) {
                 e.printStackTrace();
             }
         }
+    }
+
+    public void insert(String name, String email) {
+        String sql = "INSERT INTO Users(name, email) VALUES(?, ?)";
+        Connection conn = null;
+
+        try {
+            conn = this.init();
+            PreparedStatement pstmt = conn.prepareStatement(sql);
+            pstmt.setString(1, name);
+            pstmt.setString(2, email);
+            pstmt.executeUpdate();
+        } catch (SQLException throwables) {
+            throwables.printStackTrace();
+        }
+
+        this.close(conn);
     }
 }
