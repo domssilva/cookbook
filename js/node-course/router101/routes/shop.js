@@ -1,6 +1,6 @@
 const router = require('express').Router()
 
-router.post('/add', (req, res, next) => {
+router.post('/add-product', (req, res, next) => {
     console.log(req.body)
     res.redirect('/')
 })
