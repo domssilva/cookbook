@@ -5,4 +5,8 @@ strings.pop(); // O(1)
 
 strings.splice(0, 1, 'alien'); // O(n)
 
-console.log(strings);
+// GET THE LAST ITEM OF AN ARRAY
+
+const tenant_of = ['first', 'second', 'last']
+
+console.log(tenant_of[tenant_of.length -1])
