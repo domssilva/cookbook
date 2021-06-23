@@ -1,0 +1,22 @@
+{
+    "target": {
+        "scope": {
+            "advanced_mode": true,
+            "exclude": [],
+            "include": [
+                {
+                    "enabled": true,
+                    "host": "barker-social.com",
+                    "port": "49846",
+                    "protocol": "any"
+                },
+                {
+                    "enabled": true,
+                    "host": "kreative.barker-social.com",
+                    "port": "49846",
+                    "protocol": "any"
+                }
+            ]
+        }
+    }
+}
