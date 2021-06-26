@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "crypto-js": "^4.0.0",
+    "php-unserialize": "0.0.1"
+  }
 }
