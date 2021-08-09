@@ -1,12 +1,51 @@
-/*
-Faça um programa na linguagem C++ que leia uma matriz de 4 x 4 elementos usando o laço for. Após a leitura da matriz
- o programa deve solicitar ao usuário um numero pelo qual será multiplicado por cada elementos da matriz
- */
-
 #include <iostream>
+#include <random>
 
 using namespace std;
+
+int numeroRandom()
+{
+    random_device dev;
+    mt19937 rng(dev());
+    uniform_int_distribution<mt19937::result_type> dist6(1,100);
+    return dist6(rng);
+}
+
 int main()
 {
+    int numero;
+    int matrix[4][4];
+
+    cout << "Matriz gerada:" << endl;
+    for (int i = 0; i < 4; i++)
+    {
+        for (int j = 0; j < 4; j++)
+        {
+            matrix[i][j] = numeroRandom();
+            cout << matrix[i][j] << " ";
+
+            if (j == 3)
+            {
+                cout << endl;
+            }
+        }
+    }
     
+    cout << endl << "-----------------------------------\n\n";
+    cout << "Digite um numero: ";
+    cin >> numero;
+    cout << endl;
+
+    for (int i = 0; i < 4; i++)
+    {
+        for (int j = 0; j < 4; j++)
+        {
+            int resultado = matrix[i][j] * numero;
+            cout
+                << matrix[i][j] << " * " << numero << " = " 
+                << resultado << endl;
+        }
+    }
+
+    return 0;
 }
