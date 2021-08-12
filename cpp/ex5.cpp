@@ -3,11 +3,7 @@
 
 using namespace std;
 
-/*
-    Sei que nao era necessario criar uma classe para o exercicio,
-    espero que nao tenha problema... acabei me empolgado explorando
-    as classes em c++ :)
-*/
+// playing with OOP
 class SistemaEscolar
 {
 private:
