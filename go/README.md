@@ -1,3 +1,5 @@
+[learn go with tests](https://github.com/quii/learn-go-with-tests/blob/main/hello-world.md)
+
 ## Cli commands
 * run tests : `go test`
 * run go : `go run` <filename>
