@@ -30,7 +30,6 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'tpope/vim-fugitive'
-Plugin 'wakatime/vim-wakatime'
 Plugin 'fatih/vim-go'
 Plugin 'valloric/youcompleteme'
 Plugin 'mbbill/undotree'
@@ -64,6 +63,5 @@ nnoremap <silent> <leader>- :vertical resize -5<CR>
 " YCM
 nnoremap <silent> <leader>gd :YcmCompleter GoTo<CR>
 nnoremap <silent> <leader>gd :YcmCompleter FixIt<CR>
-
 
 filetype plugin indent on    " required
