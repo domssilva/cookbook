@@ -1,0 +1,9 @@
+POST /api/customer HTTP/1.1
+Host: localhost:3000
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+<customer>
+  <name>John Smith</name>
+  <email>john@example.com</email>
+</customer>

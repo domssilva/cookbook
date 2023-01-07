@@ -1,0 +1,8 @@
+PUT /api/customer/1 HTTP/1.1
+Host: localhost:3000
+Content-Type: application/xml
+
+<customer>
+  <name>Jane Smith</name>
+  <email>jane@example.com</email>
+</customer>
