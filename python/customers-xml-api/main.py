@@ -41,5 +41,26 @@ def create_customer():
     response.headers['Content-Type'] = 'text/plain'
     return response
 
+@app.route('/api/customer/<int:customer_id>', methods=['PUT'])
+def update_customer(customer_id):
+    # Find the customer with the given ID
+    customer = next((c for c in customers if c['id'] == customer_id), None)
+    if customer is None:
+        # Return a 404 response if the customer was not found
+        return 'Customer not found', 404
+    
+    # Parse the request body as XML
+    customer_xml = ET.fromstring(request.data)
+    
+    # Deserialize the updated customer from the XML element
+    updated_customer = customer_from_xml(customer_xml)
+    
+    # Update the customer in the list
+    customer['name'] = updated_customer['name']
+    customer['email'] = updated_customer['email']
+    
+    # Return a 204 response to indicate that the update was successful
+    return '', 204
+
 if __name__ == '__main__':
     app.run(host='localhost', port=3000)
