@@ -10,6 +10,17 @@ customers = []
 def home():
     return "pong."
 
+# GET /api/customers
+@app.route('/api/customers', methods=['GET'])
+def get_customers():
+    # Serialize the list of customers to an XML element
+    customers_xml = customers_to_xml(customers)
+    
+    # Convert the XML element to a string and return it as the response
+    response = make_response(ET.tostring(customers_xml))
+    response.headers['Content-Type'] = 'application/xml'
+    return response
+
 # POST /api/customer
 @app.route('/api/customer', methods=['POST'])
 def create_customer():
