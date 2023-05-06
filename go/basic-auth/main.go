@@ -1,27 +1,88 @@
 package main
 
 import (
+	"html/template"
 	"log"
 	"net/http"
+	"time"
 	"golang.org/x/crypto/bcrypt"
 )
 
 func main() {
+	http.HandleFunc("/profile", logRequest(handleProfile))
+	http.HandleFunc("/login", logRequest(handleLogin))
 	http.HandleFunc("/signup", logRequest(handleSignup))
 	http.HandleFunc("/", logRequest(handleHome))
 	http.ListenAndServe(":8080", nil)
 }
 
-// Handles / route
-func handleHome(w http.ResponseWriter, r *http.Request) {
+// Handles /profile
+func handleProfile(w http.ResponseWriter, r *http.Request) {
+	// Get the username from the cookie
+	cookie, err := r.Cookie("session_token")
+	if err != nil {
+		http.Redirect(w, r, "/login", http.StatusSeeOther)
+		return
+	}
+
+	// Render the welcome template with the username
+	tmpl, err := template.ParseFiles("profile.html")
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	data := struct {
+		Username string
+	}{
+		Username: cookie.Value,
+	}
+	err = tmpl.Execute(w, data)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+}
+
+// Handles /login
+func handleLogin(w http.ResponseWriter, r *http.Request) {
 	if r.Method == http.MethodGet {
-		http.ServeFile(w, r, "index.html")
+		http.ServeFile(w, r, "login.html")
+	} else if r.Method == http.MethodPost {
+		// Parse the username and password from the request body
+		err := r.ParseForm()
+		if err != nil {
+			http.Error(w, "Invalid form data", http.StatusBadRequest)
+			return
+		}
+
+		username := r.PostForm.Get("username")
+		password := r.PostForm.Get("password")
+		credentialsValid, err := VerifyCredentials(username, password)
+		if err != nil {
+			http.Error(w, "Could not validate credentials.", http.StatusInternalServerError)
+			return
+		}
+		if credentialsValid {
+			cookie := &http.Cookie{
+				Name:     "session_token",
+				Value:    username,
+				HttpOnly: true,
+				SameSite: http.SameSiteStrictMode,
+				Expires:  time.Now().Add(30 * time.Minute),
+			}
+			http.SetCookie(w, cookie)
+			http.Redirect(w, r, "/profile", http.StatusSeeOther)
+			return
+		} else {
+			http.Error(w, "Invalid credentials.", http.StatusForbidden)
+		}
 	} else {
 		http.Error(w, "Method not allowed.", http.StatusMethodNotAllowed)
 	}
 }
 
-// Handles / signup
+// Handles /signup
 func handleSignup(w http.ResponseWriter, r *http.Request) {
 	if r.Method == http.MethodGet {
 		http.ServeFile(w, r, "sign.html")
@@ -60,9 +121,15 @@ func handleSignup(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 
-		// Return a success response
-		w.WriteHeader(http.StatusCreated)
-		w.Write([]byte("New account created."))
+	} else {
+		http.Error(w, "Method not allowed.", http.StatusMethodNotAllowed)
+	}
+}
+
+// Handles /
+func handleHome(w http.ResponseWriter, r *http.Request) {
+	if r.Method == http.MethodGet {
+		http.ServeFile(w, r, "index.html")
 	} else {
 		http.Error(w, "Method not allowed.", http.StatusMethodNotAllowed)
 	}
