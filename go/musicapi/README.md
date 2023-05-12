@@ -1,6 +1,6 @@
 # Database config
-1. start service systemctl start mysql
-1. check if it's running systemctl status mysql
+1. start service `systemctl start mysql`
+1. check if it's running `systemctl status mysql`
 1. set local envs
 1. run db scripts to seed the db
 
@@ -22,4 +22,3 @@ or log and run from the mysql terminal
 
 1. `mysql -u <username> -p`
 1. `source ~/code/music-api/database/init.sql`
-1. `source ~/code/music-api/database/seed.sql`
